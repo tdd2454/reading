@@ -1,0 +1,6 @@
+* Note: not all olfactory kin recognition is based on MHC proteins; there are numerous other sources of an individual
+olfactory signature. Note also how this can explain the kin-selection phenomenon mentioned earlier, where sperm form
+cooperative swimming aggregates only with sperm from the same individual or a close relative. How to pull this off? Use the
+MHC proteins on the surface of the sperm as Velcro—if two sperm have identical proteins (i.e., they’re from the same
+person), they aggregate very tightly; close relative, not as tightly but still pretty tightly; more distant relative, less tightly, etc.
+1067

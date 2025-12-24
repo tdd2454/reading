@@ -1,0 +1,4 @@
+* To give a sense of this, consider someone deciding whether to press a button. The frontal cortex makes its decision; know
+its neurons’ firing patterns, and you can predict the decision with 80 percent accuracy about seven hundred milliseconds
+before the person is consciously aware of their decision.
+867

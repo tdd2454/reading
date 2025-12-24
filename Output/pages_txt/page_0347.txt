@@ -1,0 +1,35 @@
+RECIPROCAL ALTRUISM
+S
+o sometimes a chicken is an egg’s way of making another egg,
+genes can be selfish, and sometimes we gladly lay down our lives
+for two brothers or eight cousins. Does everything have to be about
+competition, about individuals or groups of relatives leaving more copies
+of their genes than the others, being more fit, having more reproductive
+success?* Is the driving force of behavioral evolution always that
+someone be vanquished?
+Not at all. One exception is elegant, if specialized. Remember
+rock/paper/scissors? Paper envelops rock; rock breaks scissors; scissors
+cut paper. Would rocks want to bash every scissors into extinction? No
+way. Because then all those papers would enwrap the rocks into
+extinction. Each participant has an incentive for restraint, producing an
+equilibrium.
+Remarkably, such equilibriums occur in living systems, as shown in a
+study of the bacteria Escherichia coli.29 The authors generated three
+colonies of E. coli, each with a strength and a weakness. To simplify:
+Strain 1 secretes a toxin. Strength: it can kill competitor cells. Weakness:
+making the toxin is energetically costly. Strain 2 is vulnerable to the
+toxin, in that it has a membrane transporter that absorbs nutrients, and
+the toxin slips in via that transporter. Strength: it’s good at getting food.
+Weakness: vulnerability to the toxin. Strain 3 doesn’t have the
+transporter and thus isn’t vulnerable to the toxin, and it doesn’t make the
+toxin. Strength: it doesn’t bear the cost of making the toxin and is
+insensitive to it. Weakness: it doesn’t absorb as much nutrients. Thus,
+destruction of strain 2 by strain 1 causes the demise of strain 1 thanks to
+strain 3. The study showed that the strains could exist in equilibrium,
+each limiting its growth.
+Cool. But it doesn’t quite fit our intuitions about cooperation.
+Rock/paper/scissors is to cooperation as peace due to nuclear weapons–
+based mutually assured destruction is to the Garden of Eden.
+Which raises a third fundamental, alongside individual selection and
+kin selection: reciprocal altruism. “I’ll scratch your back if you scratch
+346

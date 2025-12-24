@@ -1,0 +1,7 @@
+* This makes sense only after introducing an additional fact. Thanks to random, probabilistic hiccups in the ion channels now
+and then, neurons will occasionally have a random, spontaneous action potential from out of nowhere. So neuron A
+intentionally fires off ten action potentials, followed soon after by two random ones. That might make it hard to tell if neuron
+A meant to yell ten, eleven, or twelve times. By calibrating the circuit so that the inhibitory feedback signal shows up right
+after the tenth action potential, the two random ones afterward are prevented, and it is easier to tell what neuron A meant. The
+signal has been sharpened by damping the noise.
+1227

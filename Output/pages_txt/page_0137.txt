@@ -1,0 +1,22 @@
+open; some sodium flows in, causing a blip of excitation, which then
+spreads.
+Glutamate signaling works in a fancier way that is essential to
+learning.2 To simplify considerably, while dendritic spines typically
+contain only one type of receptor, those responsive to glutamate contain
+two. The first (the “non-NMDA”) works in a conventional way—for
+every little smidgen of glutamate binding to these receptors, a smidgen
+of sodium flows in, causing a smidgen of excitation. The second (the
+“NMDA”) works in a nonlinear, threshold manner. It is usually
+unresponsive to glutamate. It’s not until the non-NMDA has been
+stimulated over and over by a long train of glutamate release, allowing
+enough sodium to flow in, that this activates the NMDA receptor. It
+suddenly responds to all that glutamate, opening its channels, allowing
+an explosion of excitation.
+This is the essence of learning. The lecturer says something, and it
+goes in one ear and out the other. The factoid is repeated; same thing. It’s
+repeated enough times and—aha!—the lightbulb goes on and suddenly
+you get it. At a synaptic level, the axon terminal having to repeatedly
+release glutamate is the lecturer droning on repetitively; the moment
+when the postsynaptic threshold is passed and the NMDA receptors first
+activate is the dendritic spine finally getting it.
+136

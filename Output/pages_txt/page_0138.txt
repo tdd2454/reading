@@ -1,0 +1,32 @@
+“AHA” VERSUS ACTUALLY
+REMEMBERING
+B
+ut this has only gotten us to first base. The lightbulb going on in
+the middle of the lecture doesn’t mean it’ll still be on in an hour, let
+alone during the final exam. How can we make that burst of excitation
+persist, so that NMDA receptors “remember,” are more easily activated
+in the future? How does the potentiated excitation become long term?
+This is our cue to introduce the iconic concept of LTP—“long-term
+potentiation.” LTP, first demonstrated in 1966 by Terje Lømo at the
+University of Oslo, is the process by which the first burst of NMDA
+receptor activation causes a prolonged increase in excitability of the
+synapse.* Hundreds of productive careers have been spent figuring out
+how LTP works, and the key is that when NMDA receptors finally
+activate and open their channels, it is calcium, rather than sodium, that
+flows in. This causes an array of changes; here are a few:
+The calcium tidal wave causes more copies of glutamate
+receptors to be inserted into the dendritic spine’s
+membrane, making the neuron more responsive to
+glutamate thereafter.*
+The calcium also alters glutamate receptors that are
+already on the front lines of that dendritic spine; each
+will now be more sensitive to glutamate signals.*
+The calcium also causes the synthesis of peculiar
+neurotransmitters in the dendritic spine, which are
+released and travel backward across the synapse; there
+they increase the amount of glutamate released from the
+axon terminal after future action potentials.
+In other words, LTP arises from a combination of the presynaptic
+axon terminal yelling “glutamate” more loudly and the postsynaptic
+dendritic spine listening more attentively.
+137

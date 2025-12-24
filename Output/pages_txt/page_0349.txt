@@ -1,0 +1,33 @@
+start?*
+Gigantic Question #1: What Strategy for
+Cooperating Is Optimal?
+While biologists were formulating these questions, other scientists
+were already starting to answer them. In the 1940s “game theory” was
+founded by the polymath John von Neumann, one of the fathers of
+computer science. Game theory is the study of strategic decision making.
+Framed slightly differently, it’s the mathematical study of when to
+cooperate and when to cheat. The topic was already being explored with
+respect to economics, diplomacy, and warfare. What was needed was for
+game theorists and biologists to start talking. This occurred around 1980
+concerning the Prisoner’s Dilemma (PD), introduced in chapter 3. Time
+to see its parameters in detail.
+Two members of a gang, A and B, are arrested. Prosecutors lack
+evidence to convict them of a major crime but can get them on a lesser
+charge, for which they’ll serve a year in prison. A and B can’t
+communicate with each other. Prosecutors offer each a deal—inform on
+the other and your sentence is reduced. There are four possible
+outcomes:
+Both A and B refuse to inform on each other: each
+serves one year.
+Both A and B inform on each other: each serves two
+years.
+A informs on B, who remains silent: A walks free and B
+serves three years.
+B informs on A, who remains silent: B walks and A
+serves three years.
+Thus, each prisoner’s dilemma is whether to be loyal to your partner
+(“cooperate”) or betray him (“defect”). The thinking might go, “Best to
+cooperate. This is my partner; he’ll also cooperate, and we’ll each serve
+only a year. But what if I cooperate and he stabs me in the back? He
+walks, and I’m in for three years. Better defect. But what if we both
+348

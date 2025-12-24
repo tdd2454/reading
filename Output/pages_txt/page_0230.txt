@@ -1,0 +1,39 @@
+transcribed), requiring only one transcription factor.
+Now consider a genome consisting of genes A and B, meaning three
+different transcription profiles—A is transcribed, B is transcribed, A and
+B are transcribed—requiring three different TFs (assuming you activate
+only one at a time).
+Three genes, seven transcription profiles: A, B, C, A + B, A + C, B +
+C, A + B + C. Seven different TFs.
+Four genes, fifteen profiles. Five genes, thirty-one profiles.*
+As the number of genes in a genome increases, the number of
+possible expression profiles increases exponentially. As does the number
+of TFs needed to produce those profiles.
+Now another wrinkle that, in the lingo of an ancient generation, will
+blow your mind.
+TFs are usually proteins, coded for by genes. Back to genes A and B.
+To fully exploit them, you need the TF that activates gene A, and the TF
+that activates gene B, and the TF that activates genes A and B. Thus
+there must exist three more genes, each coding for one of those TFs.
+Requiring TFs that activate those genes. And TFs for the genes coding
+for those TFs . . .
+Whoa. Genomes aren’t infinite; instead TFs regulate one another’s
+transcription, solving that pesky infinity problem. Importantly, across the
+species whose genomes have been sequenced, the longer the genome
+(i.e., roughly the more genes there are), the greater the percentage of
+genes coding for TFs. In other words, the more genomically complex the
+organism, the larger the percentage of the genome devoted to gene
+regulation by the environment.
+Back to mutations. Can there be mutations in DNA stretches
+constituting promoters? Yes, and more often than in genes themselves. In
+the 1970s Allan Wilson and Mary-Claire King at Berkeley correctly
+theorized that the evolution of genes is less important than the evolution
+of regulatory sequences upstream of genes (and thus how the
+environment regulates genes). Reflecting that, a disproportionate share of
+genetic differences between chimps and humans are in genes for TFs.
+Time for more complexity. Suppose you have genes 1–10, and
+transcription factors A, B, and C. TF-A induces the transcription of
+genes 1, 3, 5, 7, and 9. TF-B induces genes 1, 2, 5, and 6. TF-C induces
+1, 5, and 10. Thus, upstream of gene 1 are separate promoters responding
+to TFs A, B, and C—thus genes can be regulated by multiple TFs.
+229

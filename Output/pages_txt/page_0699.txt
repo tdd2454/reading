@@ -1,0 +1,26 @@
+This next circuit encompasses some of the elements just introduced
+and explains why there are, broadly, two different types of pain. I love
+this circuit because it is just so elegant:
+Neuron A’s dendrites sit just below the surface of the skin, and the
+neuron has an action potential in response to a painful stimulus. Neuron
+A then stimulates neuron B, which projects up the spinal cord, letting
+you know that something painful just happened. But neuron A also
+stimulates neuron C, which inhibits B. This is one of our feed-forward
+inhibitory circuits. Result? Neuron B fires for a while and then is
+silenced, and you perceive this as a sharp pain—you’ve been poked with
+a needle.
+Meanwhile, there’s neuron D, whose dendrites are in the same
+general area of the skin and respond to a different type of painful
+stimulus. As before, neuron D excites neuron B, and the message is sent
+up to the brain. But it also sends projections to neuron C, where it
+inhibits it. Result? When neuron D is activated by a pain signal, it
+inhibits the ability of neuron C to inhibit neuron B. And you perceive it
+as a throbbing, continuous pain, like a burn or abrasion. Importantly, this
+is reinforced further by the fact that action potentials travel down the
+axon of neuron D much slower than in neuron A (having to do with that
+myelin that I mentioned earlier—details aren’t important). So the pain in
+neuron A’s world is not only transient but also fast. Pain in the neuron D
+branch not only is long-lasting but also has a slower onset.
+The two classes of fibers can interact, and we often intentionally
+force them to. Suppose that you have some sort of continuous, throbbing
+698

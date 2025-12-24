@@ -1,0 +1,36 @@
+Meanwhile, during stress things aren’t going great in the amygdala.
+The region is highly sensitive to glucocorticoids, with lots of
+glucocorticoid receptors; stress and glucocorticoids increase excitability
+of amygdaloid neurons,* particularly in the basolateral amygdala (the
+BLA), with its role in learning fear. Thus, this is another contingent
+hormone action—glucocorticoids don’t cause action potentials in
+amygdaloid neurons, don’t invent excitation. Instead they amplify
+preexisting excitation. Stress and glucocorticoids also increase levels of
+CRH in the BLA, and of a growth factor that builds new dendrites and
+synapses (brain-derived neurotrophic factor, or BDNF).70
+Recall from chapter 2 how during a fearful situation the amygdala
+recruits the hippocampus into remembering contextual information about
+the event (e.g., the amygdala remembers the thief’s knife, whereas the
+hippocampus remembers where the robbery occurred).71 Stress
+strengthens this recruitment, making the hippocampus a temporary fear-
+laden suburb of the amygdala. Thanks to these glucocorticoid actions in
+the amygdala,* stress makes it easier to learn a fear association and to
+consolidate it into a long-term memory.
+This sets us up for a positive feedback loop. As noted, with the onset
+of stress, the amygdala indirectly activates the glucocorticoid stress
+response. And in turn glucocorticoids increase amygdala excitability.
+Stress also makes it harder to unlearn fear, to “extinguish” a
+conditioned fear association. This involves the prefrontal cortex, which
+causes fear extinction by inhibiting the BLA (as covered in chapter 2);
+stress weakens the PFC’s hold over the amygdala.72
+Recall what fear extinction is about. You’ve learned to fearfully
+associate a light with a shock, but today the light keeps coming on with
+no shock. Extinction is not passively forgetting that light equals shock. It
+is the BLA actively learning that light no longer equals shock. Thus
+stress facilitates learning fear associations but impairs learning fear
+extinction.
+Sustained Stress, Executive Function, and
+Judgment
+Stress compromises other aspects of frontal cortical function.
+Working memory is disrupted; in one study, prolonged administration of
+126

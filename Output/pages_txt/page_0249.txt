@@ -1,0 +1,36 @@
+appropriate to say things like characteristic A is more influenced by
+nature than nurture than . . . to say that the area of a rectangle is more
+influenced by its length than its width.” It’s appropriate to figure out if
+lengths or widths explain more of the variability in a population of
+rectangles. But not in individual ones.
+—
+As we conclude part 2 of this chapter, some key points:
+a. A gene’s influence on the average value of a trait (i.e.,
+whether it is inherited) differs from its influence on
+variability of that trait across individuals (its
+heritability).
+b. Even in the realm of inherited traits—say, the
+inheritance of five fingers as the human average—you
+can’t really say that there is genetic determination in the
+classically hard-assed sense of the word. This is because
+the inheritance of a gene’s effect requires not just
+passing on the gene but also the context that regulates
+the gene in that manner.
+c. Heritability scores are relevant only to the environments
+in which the traits have been studied. The more
+environments you study a trait in, the lower the
+heritability is likely to be.
+d. Gene/environment interactions are ubiquitous and can
+be dramatic. Thus, you can’t really say what a gene
+“does,” only what it does in the environments in which
+it’s been studied.
+Current research actively explores gene/environment interactions.37
+How’s this for fascinating: Heritability of various aspects of cognitive
+development is very high (e.g., around 70 percent for IQ) in kids from
+high–socioeconomic status (SES) families but is only around 10 percent
+in low-SES kids. Thus, higher SES allows the full range of genetic
+influences on cognition to flourish, whereas lower-SES settings restrict
+them. In other words, genes are nearly irrelevant to cognitive
+development if you’re growing up in awful poverty—poverty’s adverse
+effects trump the genetics.* Similarly, heritability of alcohol use is lower
+248

@@ -1,0 +1,37 @@
+There are dozens of neurotransmitters that have been identified.
+Some of the most renowned: serotonin, norepinephrine, dopamine,
+acetylcholine, glutamate (the most excitatory neurotransmitter in the
+brain), and GABA (the most inhibitory). It’s at this point that medical
+students are tortured with all the multisyllabic details of how each
+neurotransmitter is synthesized—its precursor, the intermediate forms
+the precursor is converted to until finally arriving at the real thing, the
+painfully long names of the various enzymes that catalyze the syntheses.
+Amid that there are some pretty simple rules built around three points:
+a. You do not ever want to find yourself running for your
+life from a lion and, oopsies, the neurons that tell your
+muscles to run fast go off-line because they’ve run out
+of neurotransmitter. Neurotransmitters are therefore
+made from precursors that are plentiful; often they are
+simple dietary constituents. Serotonin and dopamine, for
+example, are made from the dietary amino acids
+tryptophan and tyrosine, respectively. Acetylcholine is
+made from dietary choline and lecithin.
+b. A neuron can potentially have dozens of action
+potentials a second. Each involves restocking the
+vesicles with more neurotransmitter, releasing them, and
+mopping up afterward. Given that, you do not want your
+neurotransmitters to be huge, complex, ornate
+molecules, each of which requires generations of
+stonemasons to construct. Instead they are all made in a
+small number of steps from their precursors. They’re
+cheap and easy to make. For example, it takes only two
+simple synthetic steps to turn tyrosine into dopamine.
+c. Finally, to complete this pattern of neurotransmitter
+synthesis as cheap and easy, multiple neurotransmitters
+can be generated from the same precursor. In neurons
+that use dopamine as the neurotransmitter, for example,
+there are two enzymes that do those two construction
+steps. Meanwhile, in norepinephrine-releasing neurons
+there’s an additional enzyme that converts dopamine to
+norepinephrine.
+692

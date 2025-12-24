@@ -1,0 +1,4 @@
+* For lovers of details: Note that the GWAS and microarray approaches are usually telling different things. In the former you
+are looking for genes that have a variant that is associated with whatever disease or behavior you’re studying. In microarray
+studies you’re looking for genes whose expression profiles are associated with the disease or behavior.
+1028

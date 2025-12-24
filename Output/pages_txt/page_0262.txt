@@ -1,0 +1,38 @@
+stretches of DNA coding for genes, for promoters, for mysterious DNA
+junk. Collect DNA from a huge number of people, and examine whether
+particular SNPs associate with particular traits. If an SNP that’s
+implicated occurs in a gene, you’ve just gotten a hint that the gene may
+be involved in that trait.*
+A GWAS study might implicate scads of genes as being associated
+with a trait. Hopefully, some will be candidate genes already known to
+be related to the trait. But other identified genes may be mysterious. Now
+go check out what they do.
+In a related approach, suppose you have two populations, one with
+and one without a degenerative muscle disease. Take a muscle biopsy
+from everyone, and see which of the ~20,000 genes are transcriptionally
+active in the muscle cells. With this “microarray” or “gene chip”
+approach, you look for genes that are transcriptionally active only in
+diseased or in healthy muscle, not in both. Identify them, and you have
+some new candidate genes to explore.*
+These fishing expeditions* show why we’re so ignorant about the
+genetics of behavior.60 Consider a classic GWAS that looked for genes
+related to height. This was a crazy difficult study involving examining
+the genomes of 183,727 people. 183,727. It must have taken an army of
+scientists just to label the test tubes. And reflecting that, the paper
+reporting the findings in Nature had approximately 280 authors.
+And the results? Hundreds of genetic variants were implicated in
+regulating height. A handful of genes identified were known to be
+involved in skeletal growth, but the rest was terra incognita. The single
+genetic variant identified that most powerfully predicted height
+explained all of 0.4 percent—four tenths of one percent—of the variation
+in height, and all those hundreds of variants put together explained only
+about 10 percent of the variation.
+Meanwhile, an equally acclaimed study did a GWAS regarding body
+mass index (BMI). Similar amazingness—almost a quarter million
+genomes examined, even more authors than the height study. And in this
+case the single most explanatory genetic variant identified accounted for
+only 0.3 percent of the variation in BMI. Thus both height and BMI are
+highly “polygenic” traits. Same for age of menarche (when girls
+menstruate for the first time). Moreover, additional genes are being
+missed because their variants are too rare to be picked up by current
+261

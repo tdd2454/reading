@@ -1,0 +1,35 @@
+This business about heterogeneous environments driving down
+heritability scores is important only in considering some hypothetical
+species that, say, lives in both tundra and desert, in various population
+densities, in nomadic bands, sedentary farming communities, and urban
+apartment buildings.
+Oh, that’s right, humans. Of all species, heritability scores in humans
+plummet the most when shifting from a controlled experimental setting
+to considering the species’ full range of habitats. Just consider how much
+the heritability score for wearing earrings, with its gender split, has
+declined since 1958.
+—
+Now to consider an extremely important complication.
+Gene/Environment Interactions
+Back to our plant. Imagine a growth pattern in environment A of 1, 1,
+and 1 for the three gene variants, while in environment B it’s 10, 10, and
+10. When considering the combined data from both environments,
+heritability is zero—variation is entirely explained by which
+environment the plant grew in.
+Now, instead, in environment A it’s 1, 2, and 3, while in environment
+B it’s also 1, 2, and 3. Heritability is 100 percent, with all variability in
+height explained by genetic variation.
+Now say environment A is 1, 2, and 3, and environment B is 1.5, 2.5,
+3.5. Heritability is somewhere between 0 percent and 100 percent.
+Now for something different: Environment A: 1, 2, 3. Environment
+B: 3, 2, 1. In this case even talking about a heritability score is
+problematic, because different gene variants have diametrically opposite
+effects in different environments. We have an example of a central
+concept in genetics, a gene/environment interaction, where qualitative,
+rather than just quantitative, effects of a gene differ by environment.
+Here’s a rule of thumb for recognizing gene/environment interactions,
+translated into English: You are studying the behavioral effects of a gene
+in two environments. Someone asks, “What are the effects of the gene on
+some behavior?” You answer, “It depends on the environment.” Then
+they ask, “What are the effects of environment on this behavior?” And
+245

@@ -1,0 +1,4 @@
+* And to needlessly complicate things further, thus explaining why this is buried in a footnote, there is actually an intervening
+synapse between the long spinal projection neurons of the SNS and the SNS neurons reaching target cells. This is the second
+neuron in the two-step pathway that releases norepinephrine. The first neuron in each pathway releases acetylcholine.
+843

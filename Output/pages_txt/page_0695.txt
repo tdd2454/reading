@@ -1,0 +1,17 @@
+nuts and bolts of neurotransmitterology can be changed by experience as
+well.
+MORE THAN TWO NEURONS AT A TIME
+W
+e have now triumphantly reached the point of thinking about
+three neurons at a time. And within not too many pages, we will
+have gone wild and considered even more than three. The purpose of this
+section is to see how circuits of neurons work, the intermediate step
+before examining what entire regions of the brain have to do with the
+best and worst of our behaviors. Therefore, the examples here were
+chosen merely to give a flavor of how things work at this level.
+Neuromodulation
+Consider the following diagram:
+The axon terminal of neuron B forms a synapse with the dendritic
+spine of the postsynaptic neuron (let’s call it neuron C) and releases an
+excitatory neurotransmitter. The usual. Meanwhile, neuron A sends an
+694

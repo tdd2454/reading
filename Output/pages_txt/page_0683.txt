@@ -1,0 +1,21 @@
+moment). Those axon terminals connect to the dendrites of the next
+neuron in line. Thus a neuron’s dendritic ears are informed that the
+neuron behind it is excited. The flow of information then sweeps from
+the dendrites to the cell body to the axon to the axon terminals, and is
+then passed to the next neuron.
+Let’s translate “flow of information” into quasi chemistry. What
+actually goes from the dendrites to the axon terminals? A wave of
+electrical excitation. Inside the neuron are various positively and
+negatively charged ions. Just outside the neuron’s membrane are other
+positively and negatively charged ions. When a neuron has gotten an
+exciting signal from the previous neuron at the end of one single
+dendritic fiber, channels in the membrane in that dendrite open, allowing
+various ions to flow in and others to flow out, and the net result is that
+the inside of the end of that dendrite becomes more positively charged.
+The charge spreads toward the axon terminal, where it is passed to the
+next neuron. That’s it for the chemistry.
+Two gigantically important details:
+The resting potential. So when a neuron has gotten a hugely excitatory
+message from the previous neuron in line, its insides can become
+positively charged relative to the extracellular space around it. Back to
+682

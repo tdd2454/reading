@@ -1,0 +1,36 @@
+CONTEXT
+S
+o social intuitions can have large, useful roles in moral decision
+making. Should we now debate whether reasoning or intuition is
+more important? This is silly, not least of all because there is
+considerable overlap between the two. Consider, for example, protesters
+shutting down a capital to highlight income inequity. This could be
+framed as the Kohlbergian reasoning of people in a postconventional
+stage. But it could also be framed à la Haidt in a social intuitionist way—
+these are people who resonate more with moral intuitions about fairness
+than with respect for authority.
+More interesting than squabbling about the relative importance of
+reasoning and intuition are two related questions: What circumstances
+bias toward emphasizing one over the other? Can the differing emphases
+produce different decisions?
+As we’ve seen, then–graduate student Josh Greene and colleagues
+helped jump-start “neuroethics” by exploring these questions using the
+poster child of “Do the ends justify the means?” philosophizing, namely
+the runaway trolley problem. A trolley’s brake has failed, and it is
+hurtling down the tracks and will hit and kill five people. Is it okay to do
+something that saves the five but kills someone else in the process?
+People have pondered this since Aristotle took his first trolley ride;*
+Greene et al. added neuroscience. Subjects were neuroimaged while
+pondering trolley ethics. Crucially, they considered two scenarios.
+Scenario 1: Here comes the trolley; five people are goners. Would you
+pull a lever that diverts the trolley onto a different track, where it will hit
+and kill someone (the original scenario)? Scenario 2: Same circumstance.
+Would you push the person onto the tracks to stop the trolley?19
+By now I bet readers can predict which brain region(s) activates in
+each circumstance. Contemplate pulling the lever, and dlPFC activity
+predominates, the detached, cerebral profile of moral reasoning.
+Contemplate consigning the person to death by pushing them, and it’s
+vmPFC (and amygdala), the visceral profile of moral intuition.
+Would you pull the lever? Consistently, 60 to 70 percent of people,
+with their dlPFCs churning away, say yes to this utilitarian solution—kill
+489

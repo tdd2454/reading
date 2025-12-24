@@ -1,0 +1,26 @@
+the frontocortical power behind willpower. In a task where one chooses
+between an immediate and a (larger) delayed reward, contemplating the
+immediate reward activates limbic targets of dopamine (i.e., the
+mesolimbic pathway), whereas contemplating the delayed reward
+activates frontocortical targets (i.e., the mesocortical pathway). The
+greater the activation of the latter, the more likely there’ll be gratification
+postponement.
+These studies involved scenarios of a short burst of work soon
+followed by reward.101 What about when the work required is prolonged,
+and reward is substantially delayed? In that scenario there is a secondary
+rise of dopamine, a gradual increase that fuels the sustained work; the
+extent of the dopamine ramp-up is a function of the length of the delay
+and the anticipated size of the reward:
+Visit bit.ly/2ngTC7V for a larger version of this graph.
+This reveals how dopamine fuels delayed gratification. If waiting X
+amount of time for a reward has value Z; waiting 2X should logically
+have value ½Z; instead we “temporally discount”—the value is smaller,
+e.g., ¼Z. We don’t like waiting.
+Dopamine and the frontal cortex are in the thick of this phenomenon.
+Discounting curves—a value of ¼Z instead of ½Z—are coded in the
+accumbens, while dlPFC and vmPFC neurons code for time delay.102
+This generates some complex interactions. For example, activate the
+vmPFC or inactivate the dlPFC, and short-term reward becomes more
+alluring. And a cool neuroimaging study of Knutson’s gives insight into
+impatient people with steep temporal discounting curves; their
+76

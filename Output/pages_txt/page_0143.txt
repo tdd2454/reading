@@ -1,0 +1,39 @@
+Suppose, instead, that tactile receptors in the hand are destroyed, no
+longer projecting to those sensory cortical neurons. Neurons abhor a
+vacuum, and tactile neurons in the wrist may sprout collateral axonal
+branches and expand their territory into that neglected cortical region.
+Consider blindness due to retinal degeneration, where the projections to
+the visual cortex are silenced. As described, fingertip tactile neurons
+involved in reading Braille sprout projections into the visual cortex,
+setting up camp there. Or suppose there is a pseudoinjury: after merely
+five days of subjects being blindfolded, auditory projections start to
+remap into the visual cortex (and retract once the blindfolds come off).14
+Consider how fingertip tactile neurons carrying information about
+Braille remap to the visual cortex in someone blind. The sensory cortex
+and visual cortex are far away from each other. How do those tactile
+neurons “know” (a) that there’s vacant property in the visual cortex; (b)
+that hooking up with those unoccupied neurons helps turn fingertip
+information into “reading”; and (c) how to send axonal projections to
+this new cortical continent? All are matters of ongoing research.
+What happens in a blind person when auditory projection neurons
+expand their target range into the inactive visual cortex? More acute
+hearing—the brain can respond to deficits in one realm with
+compensations in another.
+So sensory projection neurons can remap. And once, say, visual
+cortex neurons are processing Braille in a blind person, those neurons
+need to remap where they project to, triggering further downstream
+remapping. Waves of plasticity.
+Remapping occurs regularly throughout the brain in the absence of
+injury. My favorite examples concern musicians, who have larger
+auditory cortical representation of musical sounds than do nonmusicians,
+particularly for the sound of their own instrument, as well as for
+detecting pitch in speech; the younger the person begins being a
+musician, the stronger the remapping.15
+Such remapping does not require decades of practice, as shown in
+beautiful work by Alvaro Pascual-Leone at Harvard.16 Nonmusician
+volunteers learned a five-finger exercise on the piano, which they
+practiced for two hours a day. Within a few days the amount of motor
+cortex devoted to the movement of that hand expanded, but the
+expansion lasted less than a day without further practice. This expansion
+was probably “Hebbian” in nature, meaning preexisting connections
+142

@@ -1,0 +1,31 @@
+generated. The brain is wired in networks of divergent and convergent
+signaling.
+—
+Now to put in a flabbergasting real number—your average neuron has
+about ten thousand dendritic spines and about the same number of axon
+terminals. Factor in a hundred billion neurons, and you see why brains,
+rather than kidneys, write poetry.
+Just for completeness, here are a couple of final facts. Neurons have
+some additional tricks, at the end of an action potential, to enhance the
+contrast between nothing to say/something to say even more, two means
+of ending the action potential really fast and dramatically: something
+called delayed rectification and another thing called the hyperpolarized
+refractory period. Another minor detail from that diagram above—a type
+of glial cell wraps around an axon, forming a layer of insulation called a
+myelin sheath; this “myelination” causes the action potential to shoot
+down the axon faster.
+And one final detail of great future importance: the threshold of the
+axon hillock can change over time, thus changing the neuron’s
+excitability. What things change thresholds? Hormones, nutritional state,
+experience, and other factors filling this book’s pages.
+We’ve now made it from one end of a neuron to the other. How
+exactly does a neuron with an action potential communicate its excitation
+to the next neuron in line?
+TWO NEURONS AT A TIME: SYNAPTIC
+COMMUNICATION
+S
+o an action potential has been triggered at the hillock in neuron A
+and has swept down to all ten thousand axon terminals. How is this
+excitation passed on to the next neuron(s)?
+The Defeat of the Synctitium-ites
+687

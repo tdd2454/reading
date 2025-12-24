@@ -1,0 +1,38 @@
+predicts how much outrage you feel and how much revenge you take.
+This is all about sociality—the insula and amygdala don’t activate if it’s
+a computer that has stabbed you in the back.
+The insula activates when we eat a cockroach or imagine doing so.
+And the insula and amygdala activate when we think of the neighboring
+tribe as loathsome cockroaches. As we’ll see, this is central to how our
+brains process “us and them.”
+And finally, the amygdala gets tons of inputs from the frontal cortex.
+Much more to come.
+SOME OUTPUTS FROM THE AMYGDALA
+Bidirectional connections. As we’ll see, the amygdala talks to many of the
+regions that talk to it, including the frontal cortex, insula, periaqueductal
+gray, and sensory projections, modulating their sensitivity.
+The amygdala/hippocampus interface. Naturally, the amygdala talks to other
+limbic structures, including the hippocampus. As reviewed, typically the
+amygdala learns fear and the hippocampus learns detached, dispassionate
+facts. But at times of extreme fear, the amygdala pulls the hippocampus
+into a type of fear learning.29
+Back to the rat undergoing fear conditioning. When it’s in cage A, a
+tone is followed by a shock. But in cage B, the tone isn’t. This produces
+context-dependent conditioning—the tone causes fearful freezing in cage
+A but not in cage B. The amygdala learns the stimulus cue—the tone—
+while the hippocampus learns about the contexts of cage A versus B. The
+coupled learning between amygdala and hippocampus is very focalized
+—we all remember the view of the plane hitting the second World Trade
+Center tower, but not whether there were clouds in the background. The
+hippocampus decides whether a factoid is worth filing away, depending
+on whether the amygdala has gotten worked up over it. Moreover, the
+coupling can rescale. Suppose someone robs you at gunpoint in an alley
+in a bad part of town. Afterward, depending on the circumstance, the gun
+can be the cue and the alley the context, or the alley is the cue and the
+bad part of town the context.
+Motor outputs. There’s a second shortcut regarding the amygdala,
+specifically when it’s talking to motor neurons that command
+movement.30 Logically, when the amygdala wants to mobilize a behavior
+—say, fleeing—it talks to the frontal cortex, seeking its executive
+approval. But if sufficiently aroused, the amygdala talks directly to
+46

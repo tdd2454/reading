@@ -1,0 +1,38 @@
+How does this work? Rodents produce pheromonal odors with
+individual signatures, derived from genes called the major
+histocompatibility complex (MHC). This is a super variable gene cluster
+that produces unique proteins that form a signature for an individual.
+This was first studied by immunologists. What does the immune system
+do? It differentiates between you and invaders—“self” and “nonself”—
+and attacks the latter. All your cells carry your unique MHC-derived
+protein, and surveillance immune cells attack any cell lacking this
+protein password. And MHC-derived proteins also wind up in
+pheromones, producing a distinctive olfactory signature.
+This system can indicate that this mouse is John Smith. How does it
+also tell that he’s your never-before-encountered brother? The closer the
+relative, the more similar their cluster of MHC genes and the more
+similar their olfactory signature. Olfactory neurons in a mouse contain
+receptors that respond most strongly to the mouse’s own MHC protein.
+Thus, if the receptor is maximally stimulated, it means the mouse is
+sniffing its armpit. If near maximally stimulated, it’s a close relative.
+Moderately, a distant relative. Not at all (though the MHC protein is
+being detected by other olfactory receptors), it’s a hippo’s armpit.*
+Olfactory recognition of kin accounts for a fascinating phenomenon.
+Recall from chapter 5 how the adult brain makes new neurons. In rats,
+pregnancy triggers neurogenesis in the olfactory system. Why there? So
+that olfactory recognition is in top form when it’s time to recognize your
+newborn; if the neurogenesis doesn’t occur, maternal behavior is
+impaired.25
+Then there is kin recognition based on imprinted sensory cues. How
+do I know which newborn to nurse? The one who smells like my vaginal
+fluid. Which kid do I hang out near? The one who smells like Mom’s
+milk. Many ungulates use such rules. So do birds. Which bird do I know
+is Mom? The bird whose distinctive song I learned before hatching.
+And there are species that figure out relatedness by reasoning; my
+guess is that male baboons make statistical inferences when identifying
+their likely offspring: “How much of this mom’s peak estrus swelling
+was spent with me? All. Okay, this is my kid; act accordingly.” Which
+brings us to the most cognitively strategic species, namely us. How do
+we do kin recognition? In ways that are far from accurate, with
+interesting consequences.
+344

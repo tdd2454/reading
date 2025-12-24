@@ -1,0 +1,6 @@
+Neuron A projects to neurons 1, 2, and 3; neuron B projects to 2, 3,
+and 4, etc. Now let’s show how hypothetical this circuit is by giving
+neurons A, B, and C completely imaginary functions. Neuron A
+responds to the picture of the guy on the left, B to the guy in the middle,
+C to the one on the right:
+700

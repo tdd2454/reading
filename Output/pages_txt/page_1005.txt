@@ -1,0 +1,4 @@
+* For those who care, the number of unique transcriptional profiles for n number of genes is (2n)−1, not counting the state
+where no genes are being transcribed. So plug the approximately 20,000 human genes into the equation, and you get a
+gargantuan number of possible transcriptional profiles.
+1004

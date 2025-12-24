@@ -1,0 +1,36 @@
+The usual—results aren’t terribly consistent from one
+study to the next.
+The usual—effect sizes are small. Knowing what variant
+of a candidate gene someone has (or even what variants
+of a collection of genes) doesn’t help much in predicting
+their behavior.
+A major reason is that, after getting a handle on 5HTT
+and DRD4 interactions, there are still roughly 19,998
+more human genes and a gazillion more environments to
+study. Time to switch to the other main approach—
+looking at all those 20,000 genes at once.
+Fishing Expeditions, Instead of Looking Where
+the Light Is
+The small effect sizes reflect a limitation in the candidate gene
+approach; in scientific lingo, the problem is that one is only looking
+where the light is. The cliché harks back to a joke: You discover
+someone at night, searching the ground under a street lamp. “What’s
+wrong?” “I dropped my ring; I’m looking for it.” Trying to be helpful,
+you ask, “Were you standing on this side or that side of the lamp when
+you dropped it?” “Oh, no, I was over by those trees when I dropped it.”
+“Then why are you searching here?” “This is where the light is.” With
+candidate gene approaches, you look only where the light is, examine
+only genes that you already know are involved. And with twenty
+thousand or so genes, it’s pretty safe to assume there are still some
+interesting genes that you don’t know about yet. The challenge is to find
+them.
+The most common way of trying to find them all is with genomewide
+association studies (GWAS).59 Examine, say, the gene for hemoglobin
+and look at the eleventh nucleotide in the sequence; everyone will pretty
+much have the same DNA letter in that spot. However, there are little hot
+spots of variability, single nucleotides where, say, two different DNA
+letters occur, each in about 50 percent of the population (and where this
+typically doesn’t change the amino acid being specified, because of
+DNA redundancy). There are more than a million of such “SNPs”
+(single-nucleotide polymorphisms) scattered throughout the genome—in
+260

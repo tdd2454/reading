@@ -1,0 +1,36 @@
+genetic makeup will help by identifying their species. Alternatively,
+you’re trying to guess whether a particular person is likely to have five
+or four fingers on his hand. Knowing whether he uses buzz saws while
+blindfolded is more useful than knowing the sequence of his genome.
+Next consider the opposite—a trait that is not highly inherited but
+which has high heritability. What do genes directly have to do with
+humans being more likely than chimps to wear earrings? Not much. Now
+consider individual differences among humans—how much do genes
+help predict which individuals are wearing earrings at a high school
+dance in 1958? Tons. Basically, if you had two X chromosomes, you
+probably wore earrings, but if you had a Y chromosome, you wouldn’t
+have been caught dead doing so. Thus, while genes had little to do with
+the prevalence of earrings among Americans in 1958 being around 50
+percent, they had lots to do with determining which Americans wore
+them. Thus, in that time and place, wearing earrings, while not a strongly
+inherited trait, had high heritability.
+The Reliability of Heritability Measures
+We’re now clear on the difference between inherited traits and their
+degree of heritability and recognize that people are usually more
+interested in the latter—you versus your neighbor—than the former—
+you versus a wildebeest. As we saw, scads of behavioral and personality
+traits have heritability scores of 40 to 60 percent, meaning that genetics
+explains about half the variability in the trait. The point of this section is
+that the nature of research typically inflates such scores.*30
+Say a plant geneticist sits in the desert, studying a particular species
+of plant. In this imaginary scenario a single gene, gene 3127, regulates
+the plant’s growth. Gene 3127 comes in versions, A, B, and C. Plants
+with version A always grow to be one inch tall; version B, two inches; C,
+three inches.* What single fact gives you the most power in predicting a
+plant’s height? Obviously, whether it has version A, B, or C—that
+explains all the variation in height between plants, meaning 100 percent
+heritability.
+Meanwhile, twelve thousand miles away in a rain forest, a second
+plant geneticist is studying a clone of that same plant. And in that
+environment plants with version A, B, or C are 101, 102, or 103 inches
+243

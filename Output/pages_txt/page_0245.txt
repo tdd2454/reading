@@ -1,0 +1,39 @@
+tall, respectively. This geneticist also concludes that plant height in this
+case shows 100 percent heritability.
+Then, as required by the plot line, the two stand side by side at a
+conference, one brandishing 1/2/3 inch data, the other 101/102/103. They
+combine data sets. Now you want to predict the height of one example of
+that plant, taken from anywhere on the planet. You can either know
+which version of gene 3127 it possesses or what environment it is
+growing in. Which is more useful? Knowing which environment. When
+you study this plant species in two environments, you discover that
+heritability of height is miniscule.
+Neon lights! This is crucial: Study a gene in only one environment
+and, by definition, you’ve eliminated the ability to see if it works
+differently in other environments (in other words, if other environments
+regulate the gene differently). And thus you’ve artificially inflated the
+importance of the genetic contribution. The more environments in which
+you study a genetic trait, the more novel environmental effects will be
+revealed, decreasing the heritability score.
+Scientists study things in controlled settings to minimize variation in
+extraneous factors and thus get cleaner, more interpretable results—for
+example, making sure that the plants all have their height measured
+around the same time of year. This inflates heritability scores, because
+you’ve prevented yourself from ever discovering that some extraneous
+environmental factor isn’t actually extraneous.* Thus a heritability score
+tells how much variation in a trait is explained by genes in the
+environment(s) in which it’s been studied. As you study the trait in more
+environments, the heritability score will decrease. This is recognized by
+Bouchard: “These conclusions [derived from a behavior genetics study]
+can be generalized, of course only to new populations exposed to a range
+of environments similar to those studied.”31
+Okay, that was slick on my part, inventing a plant that grows in both
+desert and rain forest, just to trash heritability scores. Real plants rarely
+occur in both of those environments. Instead, in one rain forest the three
+gene versions might produce plants of heights 1, 2, and 3 inches, while in
+another they are 1.1, 2.1, and 3.1, producing a heritability score that,
+while less than 100 percent, is still extremely high.
+Genes typically still play hefty roles in explaining individual
+variability, given that any given species lives in a limited range of
+environments—capybaras stick to the tropics, polar bears to the Arctic.
+244

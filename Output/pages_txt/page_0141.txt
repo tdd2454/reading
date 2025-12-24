@@ -1,0 +1,38 @@
+Stress and glucocorticoids have inverted-U effects here as well.
+Moderate, transient stress (or exposure to the equivalent glucocorticoid
+levels) increases spine number in the hippocampus; sustained stress or
+glucocorticoid exposure does the opposite.7 Moreover, major depression
+or anxiety—two disorders associated with elevated glucocorticoid levels
+—can reduce hippocampal dendrite and spine number. This arises from
+decreased levels of that key growth factor mentioned earlier this chapter,
+BDNF.
+Sustained stress and glucocorticoids also cause dendritic retraction
+and synapse loss, lower levels of NCAM (a “neural cell adhesion
+molecule” that stabilizes synapses), and less glutamate release in the
+frontal cortex. The more of these changes, the more attentional and
+decision-making impairments.8
+Recall from chapter 4 how acute stress strengthens connectivity
+between the frontal cortex and motoric areas, while weakening frontal-
+hippocampal connections; the result is decision making that is habitual,
+rather than incorporating new information. Similarly, chronic stress
+increases spine number in frontal-motor connections and decreases it in
+frontal-hippocampal ones.9
+Continuing the theme of the amygdala differing from the frontal
+cortex and hippocampus, sustained stress increases BDNF levels and
+expands dendrites in the BLA, persistently increasing anxiety and fear
+conditioning.10 The same occurs in that way station by which the
+amygdala talks to the rest of the brain (the BNST—bed nucleus of the
+stria terminalis). Recall that while the BLA mediates fear conditioning,
+the central amygdala is more involved in innate phobias. Interestingly,
+stress seems not to increase the force of phobias or spine number in the
+central amygdala.
+There’s wonderful context dependency to these effects. When a rat
+secretes tons of glucocorticoids because it’s terrified, dendrites atrophy
+in the hippocampus. However, if it secretes the same amount by
+voluntarily running on a running wheel, dendrites expand. Whether the
+amygdala is also activated seems to determine whether the hippocampus
+interprets the glucocorticoids as good or bad stress.11
+Spine number and branch length in the hippocampus and frontal
+cortex are also increased by estrogen.12 Remarkably, the size of neurons’
+dendritic trees in the hippocampus expands and contracts like an
+140

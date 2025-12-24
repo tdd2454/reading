@@ -1,0 +1,8 @@
+* Some years ago a game show called Golden Balls ran in Britain. As the final step in a series of competitions, two
+competitors would face each other and play a modified version of the PD. There’d be a pot of money (potentially tens of
+thousands of pounds); each player would have to independently choose either “Split” or “Steal.” If both chose Split, they split
+the money. If one chose Split and the other Steal, the sucker got zero and the defector got everything. If they both chose Steal,
+they got nothing. YouTube is full of clips from various episodes, and they’re embarrassingly addictive. Also, see this
+Radiolab analysis of the show: www.youtube.com/watch?
+annotation_id=annotation_1155372699&feature=iv&src_vid=S0qjK3TWZE8&v=zUdBd7BDNu8.
+1071

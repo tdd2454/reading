@@ -1,0 +1,9 @@
+* A particularly clever exploitative strategy is called Pavlov. If you’re playing PD, the most advantageous outcomes for you,
+in rank order, are: (a) you defect while the other person is a sucker who cooperates; (b) you both cooperate; (c) you both
+defect; (d) you’re the sucker who cooperates while the other defects. Pavlov’s basic temperament is to cooperate, but every so
+often, randomly, it defects, and the rule is that, independent of those occasional random actions, if your play resulted in one of
+the two better outcomes, you do the same thing again next time; if the result was one of the two worse outcomes, you switch
+your behavior the next time. What that means is that if you are playing against Always Cooperate or a highly forgiving
+version of Forgiving Tit for Tat, your occasional random defections are either never or rarely punished, allowing you to
+exploit the other player at length.
+1074

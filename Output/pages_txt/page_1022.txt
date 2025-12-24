@@ -1,0 +1,5 @@
+* A subtle point for which I thank Stephen Manuck of the University of Pittsburgh: This example represents an exception to
+the rule that heritability scores go down as you study a trait in more environments. If you started by studying only low-SES
+individuals, you’d generate a very low heritability score (~10 percent). Thus, if one studies both low- and high-SES subjects
+(the latter with a high heritability score of about 70 percent), the score will rise.
+1021

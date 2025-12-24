@@ -1,0 +1,4 @@
+* How is such priming done? The subject is given a series of scrambled sentences and has to scramble them. In one group
+most of the sentences discuss things that tap into the concept of loyalty (“teammates helps Jane her”), while the other group’s
+sentences are about equality (“fairness advocates Chris for”).
+1106

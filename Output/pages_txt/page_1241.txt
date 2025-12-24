@@ -1,0 +1,4 @@
+* There are other, rarer types of mutations. One class of them, for example, involves the codon coding for an amino acid
+called glutamine being repeated over and over in the gene, even dozens of times, producing what are called “polyglutamine
+expansion diseases,” the most famous being Huntington’s disease. They are extremely rare mutations, though.
+1240

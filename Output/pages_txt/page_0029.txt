@@ -1,0 +1,21 @@
+Thus we’ve got the brain divided into three functional buckets, with
+the usual advantages and disadvantages of categorizing a continuum. The
+biggest disadvantage is how simplistic this is. For example:
+a. Anatomically there is considerable overlap among the
+three layers (for example, one part of the cortex can best
+be thought of as part of layer 2; stay tuned).
+b. The flow of information and commands is not just top
+down, from layer 3 to 2 to 1. A weird, great example
+explored in chapter 15: if someone is holding a cold
+drink (temperature is processed in layer 1), they’re more
+likely to judge someone they meet as having a cold
+personality (layer 3).
+c. Automatic aspects of behavior (simplistically, the
+purview of layer 1), emotion (layer 2), and thought
+(layer 3) are not separable.
+d. The triune model leads one, erroneously, to think that
+evolution in effect slapped on each new layer without
+any changes occurring in the one(s) already there.
+Despite these drawbacks, which MacLean himself emphasized, this
+model will be a good organizing metaphor for us.
+28

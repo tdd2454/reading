@@ -1,0 +1,38 @@
+Back to the theme introduced in chapter 2 of the frontal cortex, and
+the dlPFC in particular, getting you to do the harder thing when it’s the
+right thing to do. And in our value-free sense of “right,” you’d expect the
+dlPFC to activate when you’re struggling to do (a) the morally right
+thing, which is to avoid the temptation to lie, as well as (b) the
+strategically right thing, namely, once having decided to lie, doing it
+effectively. It can be hard to deceive effectively, having to think
+strategically, carefully remember what lie you’re actually saying, and
+create a false affect (“Your Majesty, I bring terrible, sad news about your
+son, the heir to the throne [yeah, we ambushed him—high fives!]”).*
+Thus activation of the dlPFC will reflect both the struggle to resist
+temptation and the executive effort to wallow effectively in the
+temptation, once you’ve lost that struggle. “Don’t do it” + “if you’re
+going to do it, do it right.”
+This confusion arises in neuroimaging studies of compulsive liars.*39
+What might one expect? These are people who habitually fail to resist
+the temptation of lying; I bet they have atrophy of something
+frontocortical. These are people who habitually lie and are good at it
+(and typically have high verbal IQs); I bet they have expansion of
+something frontocortical. And the studies bear out both predictions—
+compulsive liars have increased amounts of white matter (i.e., the axonal
+cables connecting neurons) in the frontal cortex, but lesser amounts of
+gray matter (i.e., the cell bodies of the neurons). It’s not possible to know
+if there’s causality in these neuroimaging/behavior correlates. All one
+can conclude is that frontocortical regions like the dlPFC show multiple
+and varied versions of “doing the harder thing.”
+You can dissociate the frontal task of resisting temptation from the
+frontal task of lying effectively by taking morality out of the equation.40
+This is done in studies where people are told to lie. (For example,
+subjects are given a series of pictures; later they are shown an array of
+pictures, some of which are identical to ones in their possession, and
+asked, “Is this a picture you have?” A signal from the computer indicates
+whether the subject should answer honestly or lie.) In this sort of
+scenario, lying is most consistently associated with activation of the
+dlPFC (along with the nearby and related ventrolateral PFC). This is a
+picture of the dlPFC going about the difficult task of lying effectively,
+minus worrying about the fate of its neuronal soul.
+514

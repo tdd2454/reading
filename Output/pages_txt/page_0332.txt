@@ -1,0 +1,36 @@
+EVOLUTION 101
+E
+volution rests on three steps: (a) certain biological traits are
+inherited by genetic means; (b) mutations and gene recombination
+produce variation in those traits; (c) some of those variants confer more
+“fitness” than others. Given those conditions, over time the frequency of
+more “fit” gene variants increases in a population.
+We start by trashing some common misconceptions.
+First, that evolution favors survival of the fittest. Instead evolution is
+about reproduction, passing on copies of genes. An organism living
+centuries but not reproducing is evolutionarily invisible.* The difference
+between survival and reproduction is shown with “antagonistic
+pleiotropy,” referring to traits that increase reproductive fitness early in
+life yet decrease life span. For example, primates’ prostates have high
+metabolic rates, enhancing sperm motility. Upside: enhanced fertility;
+downside: increased risk of prostate cancer. Antagonistic pleiotropy
+occurs dramatically in salmon, who epically journey to their spawning
+grounds to reproduce and then die. If evolution were about survival
+rather than passing on copies of genes, there’d be no antagonistic
+pleiotropy.2
+Another misconception is that evolution can select for preadaptations
+—neutral traits that prove useful in the future. This doesn’t happen;
+selection is for traits pertinent to the present. Related to this is the
+misconception that living species are somehow better adapted than
+extinct species. Instead, the latter were just as well adapted, until
+environmental conditions changed sufficiently to do them in; the same
+awaits us. Finally, there’s the misconception that evolution directionally
+selects for greater complexity. Yes, if once there were only single-celled
+organisms and there are multicellular ones now, average complexity has
+increased. Nonetheless, evolution doesn’t necessarily select for greater
+complexity—just consider bacteria decimating humans with some
+plague.
+The final misconception is that evolution is “just a theory.” I will
+boldly assume that readers who have gotten this far believe in evolution.
+Opponents inevitably bring up that irritating canard that evolution is
+331

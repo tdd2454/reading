@@ -1,0 +1,51 @@
+of the Amygdala and vmPFC,” Neuron 43 (2004): 897; S. Ciocchi et al., “Encoding of
+Conditioned Fear in Central Amygdala Inhibitory Circuits,” Nat 468 (2010): 277; W.
+Haubensak et al., “Genetic Dissection of an Amygdala Microcircuit That Gates Conditioned
+Fear,” Nat 468 (2010): 270.
+22. K. Gospic et al., “Limbic Justice: Amygdala Involvement in Immediate Rejections in the
+Ultimatum Game,” PLoS ONE 9 (2011): e1001054; B. De Martino et al., “Frames, Biases, and
+Rational Decision-Making in the Human Brain,” Sci 313 (2006): 684; A. Bechara et al., “Role
+of the Amygdala in Decision-Making,” ANYAS 985 (2003): 356; B. De Martino et al.,
+“Amygdala Damage Eliminates Monetary Loss Aversion,” PNAS 107 (2010): 3788; J. Van
+Honk et al., “Generous Economic Investments After Basolateral Amygdala Damage,” PNAS
+110 (2013): 2506.
+23. R. Adolphs et al., “The Human Amygdala in Social Judgment,” Nat 393 (1998): 470
+24. D. Zald, “The Human Amygdala and the Emotional Evaluation of Sensory Stimuli,” Brain
+Res Rev 41 (2003): 88; C. Saper, “Animal Behavior: The Nexus of Sex and Violence,” Nat 470
+(2011): 179; D. Lin et al., “Functional Identification of an Aggression Locus in Mouse
+Hypothalamus,” Nat 470 (2011): 221; M. Baxter and E. Murray, “The Amygdala and Reward,”
+Nat Rev Nsci 3 (2002): 563.
+Some other realms where positive stimuli activate the amygdala: S. Aalto et al.,
+“Neuroanatomical Substrate of amusement and Sadness: A PET Activation Study Using Film
+Stimuli,” Neuroreport 13 (2002): 67–73; T. Uwano et al., “Neuronal Responsiveness to
+Various Sensory Stimuli, and Associative Learning in the Rat Amygdala,” Nsci 68 (1995):
+339; K. Tye and P. Janak, “Amygdala Neurons Differentially Encode Motivation and
+Reinforcement,” J Nsci 27 (2007): 3937; G. Schoenbaum et al., “Orbitofrontal Cortex and
+Basolateral Amygdala Encode Expected Outcomes During Learning,” Nat Nsci 1 (1998): 155;
+I. Aharon et al., “Beautiful Faces Have Variable Reward Value: fMRI and Behavioral
+Evidence,” Neuron 32 (2001): 537.
+25. P. Janak and K. Tye, “From Circuits to Behavior in the Amygdala,” Nat 517 (2015): 284.
+26. J. LeDoux, “Coming to Terms with Fear,” PNAS 111 (2014): 2871; J. LeDoux, “The
+Amygdala,” Curr Biol 17 (2007): R868; K. Tully et al., “Norepinephrine Enables the Induction
+of Associative LTP at Thalamo-Amygdala Synapses,” PNAS 104 (2007): 14146.
+27. T. Rizvi et al., “Connections Between the Central Nucleus of the Amygdala and the Midbrain
+Periaqueductal Gray: Topography and Reciprocity,” J Comp Neurol 303 (1991): 121; E. Kim et
+al., “Dorsal Periaqueductal Gray-Amygdala Pathway Conveys Both Innate and Learned Fear
+Responses in Rats,” PNAS 110 (2013): 14795; C. Del-Ben and F. Graeff, “Panic Disorder: Is
+the PAG Involved?” Neural Plasticity 2009 (2009): 108135; P. Petrovic et al., “Context
+Dependent Amygdala Deactivation During Pain,” Neuroimage 13 (2001): S457; J. Johnson et
+al., “Neural Substrates for Expectation-Modulated Fear Learning in the Amygdala and
+Periaqueductal Gray,” Nat Nsci 13 (2010): 979; W. Yoshida et al., “Uncertainty Increases Pain:
+Evidence for a Novel Mechanism of Pain Modulation Involving the Periaqueductal Gray,” J
+Nsci 33 (2013): 5638.
+28. T. Heatherton, “Neuroscience of Self and Self-Regulation,” Ann Rev of Psych 62 (2011): 363;
+K. Krendl et al., “The Good, the Bad, and the Ugly: An fMRI Investigation of the Functional
+Anatomic Correlates of Stigma,” Soc Nsci 1 (2006): 5; F. Sambataro et al., “Preferential
+Responses in Amygdala and Insula During Presentation of Facial Contempt and Disgust,” Eur
+J Nsci 24, (2006): 2355.
+29. X. Liu et al., “Optogenetic Stimulation of a Hippocampal Engram Activates Fear Memory
+Recall,” Nat 484 (2012): 381; T. Seidenbecher et al., “Amygdalar and Hippocampal Theta
+Rhythm Synchronization During Fear Memory Retrieval,” Sci 301 (2003): 846; R. Redondo et
+al., “Bidirectional Switch of the Valence Associated with a Hippocampal Contextual Memory
+Engram,” Nat 513 (2014): 426; E. Kirby et al., “Basolateral Amygdala Regulation of Adult
+724

@@ -1,0 +1,2 @@
+* Genetics savants will note that I’ve simplified things here by ignoring heterozygosity; it doesn’t matter.
+1018

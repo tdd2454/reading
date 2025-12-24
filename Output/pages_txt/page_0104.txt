@@ -1,0 +1,36 @@
+Contingent Testosterone Effects
+This context dependency means that rather than causing X,
+testosterone amplifies the power of something else to cause X.
+A classic example comes from a 1977 study of groups of male
+talapoin monkeys.11 Testosterone was administered to the middle-
+ranking male in each group (say, rank number 3 out of five), increasing
+their levels of aggression. Does this mean that these guys, stoked on
+’roids, started challenging numbers 1 and 2 in the hierarchy? No. They
+became aggressive jerks to poor numbers 4 and 5. Testosterone did not
+create new social patterns of aggression; it exaggerated preexisting ones.
+In human studies testosterone didn’t raise baseline activity in the
+amygdala; it boosted the amygdala’s response and heart-rate reactivity to
+angry faces (but not to happy or neutral ones). Similarly, testosterone did
+not make subjects more selfish and uncooperative in an economic game;
+it made them more punitive when provoked by being treated poorly,
+enhancing “vengeful reactive aggression.”12
+The context dependency also occurs on the neurobiological level, in
+that the hormone shortens the refractory period of neurons in the
+amygdala and amygdaloid targets in the hypothalamus.13 Recall that the
+refractory period comes in neurons after action potentials. This is when
+the neuron’s resting potential is hyperpolarized (i.e., when it is more
+negatively charged than usual), making the neuron less excitable,
+producing a period of silence after the action potential. Thus, shorter
+refractory periods mean a higher rate of action potentials. So is
+testosterone causing action potentials in these neurons? No. It’s causing
+them to fire at a faster rate if they are stimulated by something else.
+Similarly, testosterone increases amygdala response to angry faces, but
+not to other sorts. Thus, if the amygdala is already responding to some
+realm of social learning, testosterone ups the volume.
+A Key Synthesis: The Challenge Hypothesis
+Thus, testosterone’s actions are contingent and amplifying,
+exacerbating preexisting tendencies toward aggression rather than
+creating aggression out of thin air. This picture inspired the “challenge
+hypothesis,” a wonderfully unifying conceptualization of testosterone’s
+actions.14 As proposed in 1990 by the superb behavioral endocrinologist
+103

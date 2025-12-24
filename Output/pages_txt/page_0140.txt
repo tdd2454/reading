@@ -1,0 +1,35 @@
+Let’s add hormones to this, translating some of our stress concepts
+into the language of neural plasticity. Moderate, transient stress (i.e., the
+good, stimulatory stress) promotes hippocampal LTP, while prolonged
+stress disrupts it and promotes LTD—one reason why cognition tanks at
+such times. This is the inverted-U concept of stress writ synaptic.4
+Moreover, sustained stress and glucocorticoid exposure enhance LTP
+and suppress LTD in the amygdala, boosting fear conditioning, and
+suppress LTP in the frontal cortex. Combining these effects—more
+excitable synapses in the amygdala, fewer ones in the frontal cortex—
+helps explain stress-induced impulsivity and poor emotional regulation.5
+Rescued from the Trash
+The notion of memory resting on the strengthening of preexisting
+synapses dominates the field. But ironically, the discarded idea that
+memory requires the formation of new synapses has been resuscitated.
+Techniques for counting all of a neuron’s synapses show that housing
+rats in a rich, stimulatory environment increases their number of
+hippocampal synapses.
+Profoundly fancy techniques let you follow one dendritic branch of a
+neuron over time as a rat learns something. Astonishingly, over minutes
+to hours a new dendritic spine emerges, followed by an axon terminal
+hovering nearby; over the next weeks, they form a functioning synapse
+that stabilizes the new memory (and in other circumstances, dendritic
+spines retract, eliminating synapses).
+Such “activity-dependent synaptogenesis” is coupled to LTP—when
+a synapse undergoes LTP, the tsunami of calcium rushing into the spine
+can diffuse and trigger the formation of a new spine in the adjacent
+stretch of the dendritic branch.
+New synapses form throughout the brain—in motor-cortex neurons
+when you learn a motoric task, or in the visual cortex after lots of visual
+stimulation. Stimulate a rat’s whiskers a lot, and ditto in the “whisker
+cortex.”6
+Moreover, when enough new synapses form in a neuron, the length
+and number of branches in its dendritic “tree” often expand as well,
+increasing the strength and number of the neurons that can talk to it.
+139

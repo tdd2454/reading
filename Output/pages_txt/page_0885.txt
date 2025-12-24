@@ -1,0 +1,6 @@
+* In humans activation of the dopaminergic system is typically assessed with functional imaging techniques like fMRI, which
+detect changes in metabolism in different parts of the brain. To be precise, while an increase in metabolic demands in these
+regions is typically due to neurons there having lots of (dopamine-releasing) action potentials, the two are not synonymous.
+Nonetheless, for simplicity I’m using “dopaminergic signaling increases,” “dopamine pathways activate,” “dopamine is
+released” interchangeably.
+884

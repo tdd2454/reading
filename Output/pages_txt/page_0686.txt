@@ -1,0 +1,39 @@
+action potential there, and then the next, and the next, all the way down
+to the axon terminals.
+From an informational standpoint, a neuron has two different types
+of signaling systems. From the dendritic spines to the starts of the axon
+hillock, it’s an analogue signal, with gradations of signals that dissipate
+over space and time. And from the axon hillock to the axon terminals,
+it’s a digital system with all-or-none signaling that regenerates down the
+length of the axon.
+Let’s throw in some imaginary numbers. Suppose an average neuron
+has about one hundred dendritic spines and about one hundred axon
+terminals. What are the implications of this in the context of the
+analogue/digital feature of neurons?
+Sometimes nothing interesting. Consider neuron A, which, as just
+introduced, has one hundred axon terminals. Each one of those connects
+to one of the dendritic spines of the next neuron in line, neuron B.
+Neuron A has an action potential, which propagates down to all of its
+one hundred axon terminals, which excites all one hundred dendritic
+spines in neuron B. The threshold at the axon hillock of neuron B
+requires fifty of the dendrites to get excited around the same time in
+order to generate an action potential; thus, with all one hundred of the
+dendrites firing, neuron B is guaranteed to get an action potential.
+Now, instead, neuron A projects half of its axon terminals to neuron
+B and half to neuron C. It has an action potential; does that guarantee
+one in neurons B and C? Yes. Each of those neurons’ axon hillocks has
+that threshold of needing a signal from fifty dendritic pebbles at once in
+order to have an action potential.
+Now, instead, neuron A evenly distributes its axon terminals among
+ten different target neurons, neurons B through K. Is its action potential
+going to produce action potentials in the target neurons? No way—
+continuing our example, the ten dendritic spines’ worth of pebbles in
+each target neuron is way below the threshold of fifty pebbles.
+So what will ever cause an action potential in, say, neuron K, which
+has only ten of its dendritic spines getting excitatory signals from neuron
+A? Well, what’s going on with its other ninety dendritic spines? They’re
+getting inputs from other neurons—nine of them, with ten inputs from
+each. When will neuron B have an action potential? When at least half of
+the neurons projecting to it have action potentials. In other words, any
+given neuron integrates the inputs from all the neurons projecting to it.
+685

@@ -1,0 +1,39 @@
+This book’s focus is not really how good a liar someone is. It’s
+whether we lie, whether we do the harder thing and resist the temptation
+to deceive. For more understanding of that, we turn to a pair of
+thoroughly cool neuroimaging studies where subjects who lied did so not
+because they were instructed to but because they were dirty rotten
+cheaters.
+The first was carried out by the Swiss scientists Thomas
+Baumgartner, Ernst Fehr (whose work has been noted previously), and
+colleagues.42 Subjects played an economic trust game where, in each
+round, you could be cooperative or selfish. Beforehand a subject would
+tell the other player what their strategy would be
+(always/sometimes/never cooperate). In other words, they made a
+promise.
+Some subjects who promised to always cooperate broke their
+promise at least once. At such times there was activation of the dlPFC,
+the ACC, and, of course, the amygdala.*43
+A pattern of brain activation before each round’s decision predicted
+breaking of a promise. Fascinatingly, along with predictable activation of
+the ACC, there’d be activation of the insula. Does the scoundrel think,
+“I’m disgusted with myself, but I’m going to break my promise”? Or is it
+“I don’t like this guy because of X; in fact, he’s kind of disgusting; I owe
+him nothing; I’m breaking my promise”? While it’s impossible to tell,
+given our tendency to rationalize our own transgressions, I’d bet it’s the
+latter.
+The second study comes from Greene and colleague Joseph
+Paxton.44 Subjects in a scanner would predict the outcome of coin tosses,
+earning money for correct guesses. The study’s design contained an extra
+layer of distracting nonsense. Subjects were told the study was about
+paranormal mental abilities, and for some of the coin tosses, for this
+concocted reason, rather than state their prediction beforehand, subjects
+would just think about their choice and then tell afterward if they were
+right. In other words, amid a financial incentive to guess correctly, there
+were intermittent opportunities to cheat. Crucially, this was detectable—
+during the periods of forced honesty, subjects averaged a 50 percent
+success rate. And if accuracy jumped a lot higher during opportunities to
+cheat, subjects were probably cheating.
+The results were pretty depressing. Using this form of statistical
+detection, about a third of the subjects appeared to be big-time cheaters,
+516

@@ -1,0 +1,38 @@
+For your average nineteenth-century neuroscientist, the answer was
+easy. Their explanation would be that a fetal brain is made up of huge
+numbers of separate neurons that slowly grow their dendritic and axonal
+processes. And eventually the axon terminals of one neuron reach and
+touch the dendritic spines of the next neuron(s), and they merge, forming
+a continuous membrane between the two cells. From all those separate
+fetal neurons, the mature brain forms this continuous, vastly complex net
+of one single superneuron, which was called a “synctitium.” Thus
+excitation readily flows from one neuron to the next because they aren’t
+really separate neurons.
+Late in the nineteenth century an alternative view emerged, namely
+that each neuron remains an independent unit, and that the axon
+terminals of one neuron don’t actually touch the dendritic spines of the
+next. Instead there’s a tiny gap between the two. This notion was called
+the “neuron doctrine.”
+The adherents of the synctitium school thought that the neuron
+doctrine was asinine. “Show me the gaps between axon terminals and
+dendritic spines,” they demanded of these heretics, “and tell me how
+excitation jumps from one neuron to the next.”
+And then in 1873 it all got solved by the Italian neuroscientist
+Camillo Golgi, who invented a technique for staining brain tissue in a
+novel fashion. And the aforementioned Cajal used this “Golgi stain” to
+stain all the processes, all the branches and branchlets and twigs of the
+dendrites and axon terminals of single neurons. Crucially, the stain didn’t
+spread from one neuron to the next. There wasn’t a continuous, merged
+net of a single superneuron. Individual neurons are discrete entities. The
+neuron doctrine-ers vanquished the synctitium-ites.*
+Hooray, case closed; there are indeed micro-microscopic gaps
+between axon terminals and dendritic spines; these gaps are called
+“synapses” (which weren’t directly visualized, putting the last nail in the
+synctitial coffin, until the invention of electron microscopy in the 1950s).
+But there’s still that problem of how excitation propagates from one
+neuron to the next, leaping across the synapse.
+The answer, whose pursuit dominated neuroscience in the middle
+half of the twentieth century, is that the electrical excitation doesn’t leap
+across the synapse. Instead it gets translated into a different type of
+signal.
+688

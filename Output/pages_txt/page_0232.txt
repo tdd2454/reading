@@ -1,0 +1,35 @@
+anybody knows about the guy now is that he was wrong about heredity.
+Suppose a giraffe habitually stretches her neck to reach leaves high in a
+tree; this lengthens her neck. According to Lamarck, when she has
+babies, they will have longer necks because of “acquired inheritance.”*
+Lunatic! Buffoon! Epigenetically mediated mechanisms of inheritance—
+now often called “neo-Lamarckian inheritance”—prove Lamarck right in
+this narrow domain. Centuries late, the guy’s getting some acclaim.
+Thus, not only does environment regulate genes, but it can do so with
+effects that last days to lifetimes.
+The Modular Construction of Genes: Exons and
+Introns
+Time to do in another dogma about DNA. It turns out that most genes
+are not coded for by a continuous stretch of DNA. Instead there might be
+a stretch of noncoding DNA in the middle. In that case, the two separate
+stretches of coding DNA are called “exons,” separated by an “intron.”
+Many genes are broken into numerous exons (with, logically, one less
+intron than the number of exons).
+How do you produce a protein from an “exonic” gene? The RNA
+photocopy of the gene initially contains the exons and introns; an
+enzyme removes the intronic parts and splices together the exons.
+Clunky, but with big implications.
+Back to each particular gene coding for a particular protein.10 Introns
+and exons destroy this simplicity. Imagine a gene consisting of exons 1,
+2, and 3, separated by introns A and B. In one part of the body a splicing
+enzyme exists that splices out the introns and also trashes exon 3,
+producing a protein coded for by exons 1 and 2. Meanwhile, elsewhere
+in the body, a different splicing enzyme jettisons exon 2 along with the
+introns, producing a protein derived from exons 1 and 3. In another cell
+type a protein is made solely from exon 1. . . . Thus “alternative splicing”
+can generate multiple unique proteins from a single stretch of DNA; so
+much for “one gene specifies one protein”—this gene specifies seven (A,
+B, C, A-B, A-C, B-C, and A-B-C). Remarkably, 90 percent of human
+genes with exons are alternatively spliced. Moreover, when a gene is
+regulated by multiple TFs, each can direct the transcription of a different
+231

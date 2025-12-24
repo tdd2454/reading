@@ -1,0 +1,36 @@
+Conversely, each TF usually activates more than one gene, meaning that
+multiple genes are typically activated in networks (for example, cell
+injury causes a TF called NF-κB to activate a network of inflammation
+genes). Suppose the promoter upstream of gene 3 that responds to
+promoter TF-A has a mutation making it responsive to TF-B. Result?
+Gene 3 is now activated as part of a different network. Same
+networkwide outcome if there is a mutation in a gene for a TF, producing
+a protein that binds to a different promoter type.4
+Consider this: the human genome codes for about 1,500 different
+TFs, contains 4,000,000 TF-binding sites, and the average cell uses about
+200,000 such sites to generate its distinctive gene-expression profile.5
+This is boggling.
+Epigenetics
+The last chapter introduced the phenomenon of environmental
+influences freezing genetic on/off in one position. Such “epigenetic”
+changes* were relevant to events, particularly in childhood, causing
+persistent effects on the brain and behavior. For example, recall those
+pair-bonding prairie voles; when females and males first mate, there are
+epigenetic changes in regulation of oxytocin and vasopressin receptor
+genes in the nucleus accumbens, that target of mesolimbic dopamine
+projection.6
+Let’s translate the last chapter’s imagery of “freezing on/off
+switches” into molecular biology.7 What mechanisms underlie epigenetic
+changes in gene regulation? An environmental input results in a chemical
+being attached tightly to a promoter, or to some nearby structural
+proteins surrounding DNA. The result of either is that TFs can no longer
+access or properly bind to the promoter, thus silencing the gene.
+As emphasized in the last chapter, epigenetic changes can be
+multigenerational.8 Dogma was that all the epigenetic marks (i.e.,
+changes in the DNA or surrounding proteins) were erased in eggs and
+sperm. But it turns out that epigenetic marks can be passed on by both
+(e.g., make male mice diabetic, and they pass the trait to their offspring
+via epigenetic changes in sperm).
+Recall one of the great punching bags of science history, the
+eighteenth-century French biologist Jean-Baptiste Lamarck.9 All
+230

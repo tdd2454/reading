@@ -1,0 +1,4 @@
+* How would you test this? Two humans stand in front of a monkey, one blindfolded. A treat for the monkey is hidden
+somewhere. Blindfold is removed; monkey chooses which human goes to look for the treat. “Don’t choose the one who was
+blindfolded. They don’t know where the treat is,” thinks the ToM Master of the Universe monkey.
+964

@@ -1,0 +1,6 @@
+* How does the brain pull off an inverted U, where a moderate rise in glucocorticoid levels enhances memory (for example),
+while a bigger rise does the opposite? One solution that the brain has evolved is to have two receptor systems for
+glucocorticoids. One (the “MR”) is responsive to small increases in glucocorticoid levels above baseline and mediates the
+stimulatory effects. The other (“GR”) receptors respond only to big, prolonged increases and mediate the adverse effects.
+Predictably, levels of the two types of receptors vary by brain region, person, and circumstance.
+933

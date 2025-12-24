@@ -1,0 +1,39 @@
+down the spine and to a particular gland, helping to regulate its hormone
+release; the pancreas and its secretion of insulin are an example (where
+circulating glucose levels are the main regulator). Then there are weirdo
+hormones secreted from unlikely places like the heart or gut, where the
+brain regulates secretion only indirectly.
+Hormones, like neurotransmitters, are made cheaply. They are
+constructed in just a few biosynthetic steps from plentiful precursors—
+either simple proteins or cholesterol.* Moreover, the body generates
+multiple types of hormones from the same precursor. For example, the
+numerous steroid hormones are all generated from cholesterol.
+So far we’ve given short shrift to hormone receptors. They do the
+same general job as do neurotransmitter receptors; there is a distinctive
+receptor molecule for each type of hormone,* with a concave binding
+domain whose shape is complementary to the shape of the hormone. To
+trot out the same cliché as was used for neurotransmitters, a hormone fits
+into its receptor like a key fits into a lock. And as with neurotransmitter
+receptors, there’s no free lunch with hormone receptors. The various
+steroid hormones are structurally similar. Thus, if you’re cheap at the
+production end, you need subtle, fancy receptors that differentiate among
+those similar hormones—you do not want receptors that confuse, say,
+estrogen and testosterone.
+Hormone/neurotransmitter similarities continue. Like
+neurotransmitter receptors, a hormone receptor’s “avidity” for its
+hormone can change. This means that the shape of the binding site
+changes a bit, so that the hormone now fits more or less snugly, thus
+increasing or decreasing the duration of the hormone’s effects. The
+number of receptors for a particular hormone in a cell can also change,
+altering the cell’s sensitivity to that hormone’s effects. The number of
+receptors in a target cell can be as important as the levels of the hormone
+itself, and there are endocrine diseases where normal levels of a hormone
+are secreted but, because of a mutation in the hormone’s receptor, no
+signal gets through. Hormone levels are akin to how loudly someone
+speaks. Receptor levels are akin to the acuity with which ears detect that
+voice.
+Finally, receptors for a hormone typically occur in only a subset of
+cells and tissues in the body, meaning that only those are responsive to
+the hormone. For example, only tail cells contain receptors for thyroid
+hormone when tadpoles are turning into frogs. Similarly, only some
+709

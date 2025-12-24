@@ -1,0 +1,34 @@
+RNA determines protein.* And implicit in that central dogma is another
+critical point: one type of gene specifies one type of protein.
+Just for everyone’s sanity, I’m going to mostly ignore RNA. For our
+purposes, what is interesting is what genes, the starting point, have to do
+with their end products—proteins and their functions.
+MUTATIONS AND POLYMORPHISMS
+Genes are inherited from your parents (half the genes from each [not
+entirely true, as covered in the main text]). Suppose that when someone’s
+DNA genome is being copied for inclusion in their egg or sperm, a
+mistake is made in the copying of one single nucleotide; with billions of
+nucleotides, that’s bound to happen sometimes. As a result, unless
+corrected, the gene, now with its nucleotide sequence erroneously
+differing in one spot, is passed on to an offspring. This is a mutation.
+In classical genetics there are three types of mutations that can occur.
+The first is called a point mutation. One single nucleotide is copied
+incorrectly. Will this change the amino acid sequence of the protein
+coded for? It depends. Back to redundancy in the DNA code, from a few
+paragraphs ago. Suppose there is a codon in a gene with the sequence
+GCT, coding for alanine. But there has been a mutation, yielding GCA
+instead. No problem—that still codes for alanine. It’s an inconsequential,
+“neutral” mutation. But suppose the mutation instead was GAT. This
+codes for a completely different amino acid called asparagine. Uh-oh.
+In actuality, though, this may not be a big deal, if the new amino acid
+looks a lot like the one that was lost. Suppose you have a nucleotide
+sequence coding for the following metaphorical amino acid sequence:
+“I/am/now/going/to/do/the/following”
+Thanks to a subtle mutation, there is a change of one amino acid, but
+one without a ton of consequences:
+“I/am/now/going/ta/do/the/following”
+This would still be comprehensible to most people; the protein would
+merely be perceived as coming from New York. Translated into protein-
+ese, the protein has a slightly different shape and does its usual task a bit
+differently (maybe a little slower or faster). Not the end of the world.
+714

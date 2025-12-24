@@ -1,0 +1,36 @@
+Or how much do genes help in explaining why humans usually enjoy
+ice cream? How much in explaining why people like different flavors?
+These issues utilize two terms with similar sounds but different
+meanings. If genes strongly influence average levels of a trait, that trait is
+strongly inherited. If genes strongly influence the extent of variability
+around that average level, that trait has high heritability.* It is a
+population measure, where a heritability score indicates the percentage
+of total variation attributable to genetics.
+The difference between an inherited trait and heritability generates at
+least two problems that inflate the putative influence of genes. First,
+people confuse the two terms (things would be easier if heritability were
+called something like “gene tendency”), and in a consistent direction.
+People often mistakenly believe that if a trait is strongly inherited, it’s
+thus highly heritable. And it’s particularly bad that confusion is typically
+in that direction, because people are usually more interested in variability
+of traits among humans than in average levels of traits. For example, it’s
+more interesting to consider why some people are smarter than others
+than why humans are smarter than turnips.
+The second problem is that research consistently inflates heritability
+measures, leading people to conclude that genes influence individual
+differences more than they do.
+Let’s slowly work through this, because it’s really important.
+The Difference Between a Trait Being Inherited
+and Having a High Degree of Heritability
+You can appreciate the difference by considering cases where they
+dissociate.
+First, an example of a trait that is highly inherited but has low
+heritability, offered by the philosopher Ned Block:29 What do genes have
+to do with humans averaging five fingers per hand? Tons; it’s an
+inherited trait. What do genes have to do with variation around that
+average? Not much—cases of other than five fingers on a hand are
+mostly due to accidents. While average finger number is an inherited
+trait, the heritability of finger number is low—genes don’t explain
+individual differences much. Or stated differently: Say you want to guess
+whether some organism’s limb has five fingers or a hoof. Knowing their
+242

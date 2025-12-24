@@ -1,0 +1,38 @@
+As I said, additional mechanisms underlie LTP, and neuroscientists
+debate which is most important (the one they study, naturally) in neurons
+in organisms when they are actually learning. In general, the debate has
+been whether pre- or the postsynaptic changes are more crucial.
+After LTP came a discovery that suggests a universe in balance. This
+is LTD—long-term “depression”—experience-dependent, long-term
+decreases in synaptic excitability (and, interestingly, the mechanisms
+underlying LTD are not merely the opposite of LTP). LTD is not the
+functional opposite of LTP either—rather than being the basis of generic
+forgetting, it sharpens a signal by erasing what’s extraneous.
+A final point about LTP. There’s long term and there’s long term. As
+noted, one mechanism underlying LTP is an alteration in glutamate
+receptors so that they are more responsive to glutamate. That change
+might persist for the lifetime of the copies of that receptor that were in
+that synapse at the time of the LTPing. But that’s typically only a few
+days, until those copies accumulate bits of oxygen-radical damage and
+are degraded and replaced with new copies (similar updating of all
+proteins constantly occurs). Somehow LTP-induced changes in the
+receptor are transferred to the next generation of copies. How else can
+octogenarians remember kindergarten? The mechanism is elegant but
+beyond the scope of this chapter.
+All this is cool, but LTP and LDP are what happens in the
+hippocampus when you learn explicit facts, like someone’s phone
+number. But we’re interested in other types of learning—how we learn to
+be afraid, to control our impulses, to feel empathy, or to feel nothing for
+someone else.
+Synapses utilizing glutamate occur throughout the nervous system,
+and LTP isn’t exclusive to the hippocampus. This was a traumatic
+discovery for many LTP/hippocampus researchers—after all, LTP is
+what occurred in Schopenhauer’s hippocampus when he read Hegel, not
+what the spinal cord does to make you more coordinated at twerking.*
+Nonetheless, LTP occurs throughout the nervous system.*3 For
+example, fear conditioning involves synapses LTPing in the basolateral
+amygdala. LTP underlies the frontal cortex learning to control the
+amygdala. It’s how dopaminergic systems learn to associate a stimulus
+with a reward—for example, how addicts come to associate a location
+with a drug, feeling cravings when in that setting.
+138

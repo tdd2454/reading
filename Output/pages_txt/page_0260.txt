@@ -1,0 +1,39 @@
+“masculinization” of the cortex. An interaction between receptor variant
+and testosterone levels occurs. High basal testosterone levels do not
+predict elevated levels of aggressive mood or of amygdaloid reactivity to
+threatening faces in males—except in those with that variant.
+Interestingly, the equivalent variant predicts aggressiveness in Akita
+dogs.
+How important are these findings? A key theme in chapter 4 was
+how little individual differences in testosterone levels in the normal
+range predict individual differences in behavior. How much more
+predictability is there when combining knowledge of testosterone levels
+and of receptor sensitivity? Not much. How about hormone levels and
+receptor sensitivity and number of receptors? Still not much. But
+definitely an improvement in predictive power.
+Similar themes concern the genetics of the estrogen receptor.56 For
+example, different receptor variants are associated with higher rates of
+anxiety among women, but not men, and higher rates of antisocial
+behavior and conduct disorder in men, but not women. Meanwhile, in
+genetically manipulated mice, the presence or absence of the receptor
+gene influences aggression in females . . . depending on how many
+brothers there were in the litter in utero—gene/environment again. Once
+again, the magnitude of these genetic influences is tiny.
+Finally, there is work on genes related to glucocorticoids, particularly
+regarding gene/environment interactions.57 For example, there is an
+interaction between one variant of the gene for a type of receptor for
+glucocorticoids (for mavens: it’s the MR receptor) and childhood abuse
+in producing an amygdala that is hyperreactive to threat. Then there is a
+protein called FKBP5, which modifies the activity of another type of
+receptor for glucocorticoids (the GR receptor); one FKBP5 variant is
+associated with aggression, hostility, PTSD, and hyperreactivity of the
+amygdala to threat—but only when coupled with childhood abuse.
+Buoyed by these findings, some researchers have examined two
+candidate genes simultaneously. For example, having both “risk”
+variants of 5HTT and DRD4 synergistically increases the risk of
+disruptive behavior in kids—an effect exacerbated by low
+socioeconomic status.58
+Phew; all these pages and we’ve only gotten to thinking about two
+genes and one environmental variable simultaneously. And despite this,
+things still aren’t great:
+259

@@ -1,0 +1,36 @@
+A MYTHIC LEAP FORWARD
+I
+n the early 1990s scientists at the University of Parma in Italy, led by
+Giacomo Rizzolatti and Vittorio Gallese, reported something that,
+depending on your tastes, ranged from really interesting to revolutionary.
+They had been studying an area of the brain called the premotor cortex
+(PMC) in rhesus monkeys, examining what sorts of stimuli would cause
+individual neurons there to activate. Back to the PMC from chapter 2.
+“Executive” neurons in the PFC decide something, passing the news to
+the rest of the frontal cortex just behind it. Which sends projections to
+the PMC just behind it. Which sends projections one step further back, to
+the motor cortex, which then sends commands to muscles. Thus the
+PMC straddles the divide between thinking about and carrying out a
+movement.29
+The group had discovered some mighty quirky PMC neurons.
+Suppose a monkey carried out a behavior—grasping some food and
+bringing it to her mouth. Naturally, some neurons in the PMC would
+have activated. If she did a different movement—grasping an object and
+placing it in a container—a different (partially overlapping) array of
+PMC neurons were involved. What the group reported was that some of
+the bring-food-to-mouth neurons would also activate if the monkey
+observed someone else (monkey or human) making that movement.
+Same for some of the place-object-in-container neurons. Same for subtler
+movements like facial expressions. Consistently, about 10 percent of the
+PMC neurons devoted to doing movement X also activated when
+observing someone else doing movement X—very odd for neurons a few
+steps away from commanding muscles to move. The neurons were
+concerned with the mirroring of movements. And thus were “mirror
+neurons” announced to the world.
+Naturally, everyone looked for mirror neurons in humans, and their
+existence in roughly the same part of the brain*30 was soon inferred with
+brain imaging studies (“inferred” because that approach tells you about
+the activity of large numbers of neurons at a time, rather than single
+ones). Then individual neurons were shown to be mirroresque in humans
+(in patients undergoing neurosurgery to control a rare type of epilepsy).31
+535

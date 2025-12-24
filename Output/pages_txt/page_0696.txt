@@ -1,0 +1,32 @@
+axon terminal projection on to neuron B. But not to a normal place, a
+dendritic spine. Instead its axon terminal synapses onto the axon terminal
+of neuron B.
+What’s up with this? Neuron A releases the inhibitory
+neurotransmitter GABA, which floats across that “axoaxonic” synapse
+and binds to receptors on that side of neuron B’s axon terminal. And
+such an inhibitory effect (i.e., making that –70 mV resting potential even
+more negative) snuffs out any action potential hurtling down that branch
+of the axon, keeps it from getting to the very end and releasing
+neurotransmitter; in the jargon of the field, neuron A is having a
+neuromodulatory effect on neuron B.
+Sharpening a Signal over Time and Space
+Now for a new type of circuitry. To accommodate this, I’m using a
+simpler way of representing neurons. As diagrammed, neuron A sends
+all of its axonal projections to neuron B and releases an excitatory
+neurotransmitter, symbolized by the plus sign. The circle in neuron B
+represents the cell body plus all the dendritic branches.
+Now consider the next circuit. Neuron A stimulates neuron B, as
+usual. In addition, it also stimulates neuron C. This is routine, with
+neuron A splitting its axonal projections between the two target cells,
+exciting both. And what does neuron C do? It sends an inhibitory
+projection back onto neuron A, forming a negative feedback loop. Back
+to the brain loving contrasts, energetically screaming its head off when it
+has something to say, and energetically being silent otherwise. This is a
+more macro level of the same. Neuron A fires off a series of action
+potentials. What better way to energetically communicate that it’s all
+over than to become majorly silent, thanks to the feedback loop? It’s a
+means of sharpening a signal over time.* And note that neuron A can
+“determine” how powerful that negative feedback signal will be by how
+many of the ten thousand axon terminals it shunts toward neuron C
+instead of B.
+695

@@ -1,0 +1,25 @@
+You: C C C C C C C C C C. . . .
+Her: C C C C C C C C C C. . . .
+Suppose the other player starts cooperating but then, tempted by
+Satan, defects (D) in round 10. You cooperated, and thus you take a hit:
+Example 2:
+You: C C C C C C C C C C
+Her: C C C C C C C C C D
+Thus, you Tit for Tat her, punishing her in the next round:
+Example 3:
+You: C C C C C C C C C C D
+Her: C C C C C C C C C D ?
+If by then she’s resumed cooperating, you do as well; peace returns:
+Example 4:
+You: C C C C C C C C C C D C C C. . . .
+Her: C C C C C C C C C D C C C C. . . .
+If she continues defecting, you do as well:
+Example 5:
+You: C C C C C C C C C C D D D D D. . . .
+Her: C C C C C C C C C D D D D D D. . . .
+Suppose you play against someone who always defects. Things look
+like this:
+Example 6:
+You: C D D D D D D D D D. . . .
+Her: D D D D D D D D D D. . . .
+350

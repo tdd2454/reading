@@ -1,0 +1,31 @@
+PART 3: SO WHAT DO GENES
+ACTUALLY HAVE TO DO WITH
+BEHAVIORS WE’RE INTERESTED IN?
+The Marriage of Behavior Genetics and Molecular
+Genetics
+Behavior genetics has gotten a huge boost by incorporating
+molecular approaches—after examining similarities and differences
+between twins or adoptees, find the actual genes that underlie those
+similarities and differences. This powerful approach has identified
+various genes relevant to our interests. But first, our usual caveats: (a)
+not all of these findings consistently replicate; (b) effect sizes are
+typically small (in other words, some gene may be involved, but not in a
+major way); and (c) the most interesting findings show
+gene/environment interactions.
+Studying Candidate Genes
+Gene searches can take a “candidate” approach or a genomewide
+association approach (stay tuned). The former requires a list of plausible
+suspects—genes already known to be related to some behavior. For
+example, if you’re interested in a behavior that involves serotonin,
+obvious candidate genes would include those coding for enzymes that
+make or degrade serotonin, pumps that remove it from the synapse, or
+serotonin receptors. Pick one that interests you, and study it in animals
+using molecular tools to generate “knockout” mice (where you’ve
+eliminated that gene) or “transgenic” mice (with an extra copy of the
+gene). Make manipulations like these only in certain brain regions or at
+certain times. Then examine what’s different about behavior. Once
+you’re convinced of an effect, ask whether variants of that gene help
+explain individual differences in human versions of the behavior. I start
+with the topic that has gotten the most attention, for better or worse,
+mostly “worse.”
+250

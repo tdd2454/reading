@@ -1,0 +1,5 @@
+* The IAT will be described in detail in a later chapter—briefly, the test takes advantage of the fact that it takes us
+milliseconds longer to process pairings of information that seem discordant than pairings that make sense; thus if you’re
+prejudiced against group X, it takes you longer to process a pairing of group X with a positive term—for example,
+“wonderful”—than with a negative term—“dangerous.”
+917

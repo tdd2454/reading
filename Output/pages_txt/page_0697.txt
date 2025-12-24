@@ -1,0 +1,10 @@
+Such temporal sharpening of a signal can be accomplished in another
+way:
+Neuron A stimulates B and C. Neuron C sends an inhibitory signal
+on to neuron B that will arrive sometime after B starts getting stimulated
+(since the A/C/B loop is two synaptic steps, versus one for A/B). Result?
+Sharpening a signal with “feed-forward inhibition.”
+Now for another type of sharpening of a signal, of increasing the
+signal to noise ratio. Consider this six-neuron circuit, where neuron A
+stimulates B, C stimulates D, and E stimulates F:
+696

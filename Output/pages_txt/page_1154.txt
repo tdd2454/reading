@@ -1,0 +1,4 @@
+* But what if the monkey chooses the two-marshmallow option over the marshmallow/celery one because, well, having any
+sort of situation with two marshmallows on the scene was just so much more exciting? The authors did a nice control—when
+there was no monkey in the adjacent space, the choice would be random as to what food was deposited in the second space.
+1153

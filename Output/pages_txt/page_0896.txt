@@ -1,0 +1,9 @@
+* How would ethologists figure out what sensory information is pertinent to an animal? An example: Among gulls, the
+mother’s beak has a conspicuous red spot. When she brings food to the chicks, they peck at the beak, and Mom regurgitates
+the food. Here’s how Tinbergen proved that the red spot triggers the pecking behavior: A subtraction approach, where he’d
+paint over the red spot on birds; chicks no longer pecked. A replication approach, where he’d take a two-by-four, paint a red
+dot on it, and wave it over the nest; chicks would start pecking. Or super stimulation, where he’d paint a gigantic red dot on
+the mother’s beak; chicks would go berserk with the pecking. This approach now incorporates robotics, where ethologists
+have built, for example, robotic bees that infiltrate and fiendishly deceive bee colonies by dancing about nonexistent food
+sources, which the bees then fly off in search of.
+895

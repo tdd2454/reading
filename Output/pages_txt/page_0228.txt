@@ -1,0 +1,32 @@
+PART I: GENES FROM THE BOTTOM UP
+W
+e start by considering the limited power of genes. If you are
+shaky about topics such as the central dogma (DNA codes for
+RNA, which codes for protein sequence), protein structure determining
+function, the three-nucleotide codon code, or the basics of point,
+insertion, and deletion mutations, first read the primer in appendix 3.
+Do Genes Know What They Are Doing? The
+Triumph of the Environment
+So genes specify protein structure, shape, and function. And since
+proteins do virtually everything, this makes DNA the holy grail of life.
+But no—genes don’t “decide” when a new protein is made.
+Dogma was that there’d be a stretch of DNA in a chromosome,
+constituting a single gene, followed by a stop codon, followed
+immediately by the next gene, and then the next. . . . But genes don’t
+actually come one after another—not all DNA constitutes genes. Instead
+there are stretches of DNA between genes that are noncoding, that are
+not “transcribed.”* And now a flabbergasting number—95 percent of
+DNA is noncoding. Ninety-five percent.
+What is that 95 percent? Some is junk—remnants of pseudogenes
+inactivated by evolution.*3 But buried in that are the keys to the
+kingdom, the instruction manual for when to transcribe particular genes,
+the on/off switches for gene transcription. A gene doesn’t “decide” when
+to be photocopied into RNA, to generate its protein. Instead, before the
+start of the stretch of DNA coding for that gene is a short stretch called a
+promoter*—the “on” switch. What turns the promoter switch on?
+Something called a transcription factor (TF) binds to the promoter. This
+causes the recruitment of enzymes that transcribe the gene into RNA.
+Meanwhile, other transcription factors deactivate genes.
+This is huge. Saying that a gene “decides” when it is transcribed* is
+like saying that a recipe decides when a cake is baked.
+227

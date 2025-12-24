@@ -1,0 +1,28 @@
+Appendix 3
+Protein Basics
+P
+roteins are a class of organic compounds that are the most
+abundant molecules in living systems. They are hugely important,
+since numerous hormones, neurotransmitters, and messengers of the
+immune system are made of protein; ditto for the receptors that respond
+to those messengers, the enzymes that construct or degrade them,* the
+scaffolding that shapes a cell, and so on.
+A key feature of proteins is their shape, since the shape of a protein
+determines its function. Proteins that form the scaffolding of a cell have
+the shape of the different crossbars in scaffolding at construction sites
+(sort of). A protein hormone will have a distinctive shape that is unique
+and distinctively different from the shape of a hormone that has different
+effects.* And a protein receptor must have a shape that is complementary
+to the shape of the hormone or neurotransmitter that it binds (back to the
+time-honored cliché of appendix 1, namely that a messenger like a
+hormone fits into its receptor like a key into a lock).
+Some proteins change their shape, typically moving between two
+conformations. Suppose you have an enzyme (again, a protein) that
+synthesizes a molecule of sucrose by linking a molecule of glucose to a
+molecule of fructose. The enzyme must have one conformation that
+resembles the letter V, where one end binds a glucose molecule at a
+particular angle, the other fructose. The binding of both triggers the
+enzyme to shift to its other conformation, where the two ends of the V
+move close enough for the glucose and fructose to be linked. The sucrose
+floats off, and the enzyme flips back to its original conformation.
+711

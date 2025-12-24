@@ -1,0 +1,7 @@
+* Where do more copies of the receptors come from? Miles away from that dendritic spine, in the center of that neuron, is the
+nucleus, containing the DNA, which includes genes coding for glutamate receptors. Somehow the nucleus needs to hear that
+a calcium wave occurred in one dendritic spine in the boondocks. The nucleus then directs the synthesis of more copies of the
+receptor, which are then shipped to that specific spine, out of the neuron’s ten thousand. That’s insanely hard. Typically,
+instead, there are extra glutamate receptors mothballed inside dendritic spines, and the calcium tidal wave is the signal that
+pulls them onto the spine’s membrane.
+941

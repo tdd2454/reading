@@ -1,0 +1,7 @@
+What can neuron 1 learn? How to recognize that particular guy.
+Neuron 5 is equally specialized. But what can neuron 3 learn? How
+Victorian gentlemen dressed. It’s the neuron that will help you identify
+the Victorian in the quartet below:
+Neuron 3’s knowledge is general and comes from the overlap of the
+first layer’s projections. Neurons 2 and 4 are also generalist neurons, but
+701

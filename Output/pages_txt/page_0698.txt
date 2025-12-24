@@ -1,0 +1,22 @@
+So neuron C sends an excitatory projection on to neuron D. But in
+addition, neuron C’s axon sends collateral inhibitory projections on to
+neurons A and E.* Thus, if neuron C is stimulated, it both stimulates
+neuron D and silences neurons A and E. With such “lateral inhibition,” C
+screams its head off while A and E become especially silent. It’s a means
+of sharpening a spatial signal (and note that the diagram is simplified, in
+that I’ve omitted something obvious—neurons A and E also send
+inhibitory collateral projection on to neuron C, as well as to the neurons
+on the other sides of them in this imaginary network).
+Lateral inhibition like this is ubiquitous in sensory systems. Shine a
+tiny dot of light onto an eye. Wait, was that photoreceptor neuron A, C,
+or E that just got stimulated? Thanks to lateral inhibition, it is clearer that
+it was C. Ditto in tactile systems, allowing you to tell that it was this
+smidgen of skin that was just touched, not a little this way or that. Or the
+ears telling you it was definitely an A, not an A-sharp or A-flat.*
+Thus what we’ve seen is another example of contrast enhancement in
+the nervous system. What is the significance of the fact that the silent
+state of a neuron is negatively charged, rather than a neutral 0 mV? It’s a
+way of sharpening a signal within a neuron. Feedback, feed-forward, and
+lateral inhibition? A way of sharpening a signal within a circuit.
+Two Different Types of Pain
+697

@@ -1,0 +1,6 @@
+* For aficionados: The testosterone receptor contains what is called a polyglutamine repeat—a stretch of the protein where
+the same amino acid, called glutamine, is repeated. Importantly, there is tremendous variability among people as to how many
+glutamine repeats there are; the fewer, the more potently the androgen receptor works. Recall that receptors for steroid
+hormones like testosterone work as transcription factors, and proteins that have polyglutamine repeats are often transcription
+factors.
+1026

@@ -1,0 +1,38 @@
+The studies tend to show activation of the anterior cingulate cortex
+(ACC) as well. As introduced in chapter 2, the ACC responds to
+circumstances of conflicting choices. This occurs for conflict in an
+emotional sense, as well as in a cognitive sense (e.g., having to choose
+between two answers when both seem to work). In the lying studies the
+ACC isn’t activating because of moral conflict about lying, since
+subjects were instructed to lie. Instead, it’s monitoring the conflict
+between reality and what you’ve been instructed to report, and this gums
+up the works slightly; people show minutely longer response times
+during lying trials than during honest ones.
+This delay is useful in polygraph tests (i.e., lie detectors). In the
+classic form, the test detected arousal of the sympathetic nervous system,
+indicating that someone was lying and anxious about not getting caught.
+The trouble is that you’d get the same anxious arousal if you’re telling
+the truth but your life’s over if that fallible machine says otherwise.
+Moreover, sociopaths are undetectable, since they don’t get anxiously
+aroused when lying. Plus subjects can take countermeasures to
+manipulate their sympathetic nervous system. As a result, this use of
+polygraphs is no longer admissible in courts. Contemporary polygraph
+techniques instead home in on that slight delay, on the physiological
+indices of that ACC conflict—not the moral one, since some miscreant
+may have no moral misgivings, but the cognitive conflict—“Yeah, I
+robbed the store, but no, wait, I have to say that I didn’t.” Unless you
+thoroughly believe your lie, there’s likely to be that slight delay,
+reflecting the ACC-ish cognitive conflict between reality and your claim.
+Thus, activation of the ACC, dlPFC, and nearby frontal regions is
+associated with lying on command.41 At this point we have our usual
+issue of causality—is activation of, say, the dlPFC a cause, a
+consequence, or a mere correlate of lying? To answer this, transcranial
+direct-current stimulation has been used to inactivate the dlPFC in people
+during instructed-lying tasks. Result? Subjects were slower and less
+successful in lying—implying a causal role for the dlPFC. And to remind
+us of how complicated this issue is, people with damage to the dlPFC are
+less likely to take honesty into account when honesty and self-interest
+are pitted against each other in an economic game. So this most
+eggheady, cognitive part of the PFC is central to both resisting lying and,
+once having decided to lie, doing it well.
+515

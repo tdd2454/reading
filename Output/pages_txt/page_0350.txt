@@ -1,0 +1,38 @@
+defect—that’s two years. But maybe defect, in case he cooperates . . .”
+Round and round.*
+If you play PD once, there is a rational solution. If you, prisoner A,
+defect, your sentence averages out to one year (zero years if B
+cooperates, two years if B defects); if you cooperate, the average is two
+years (one year if B cooperates, three years if B defects). Thus you
+should defect. In single-round versions of PD, it’s always optimal to
+defect. Not very encouraging for the state of the world.
+Suppose there are two rounds of PD. The optimal strategy for the
+second round is just like in a single-round version—always defect. Given
+that, the first-round defaults into being like a single-round game—and
+thus, defect during it also.
+What about a three-round game? Defect in the third, meaning that
+things default into a two-round game. In which case, defect in the
+second, meaning defect in the first.
+It’s always optimal to defect in round Z, the final round. And thus it’s
+always optimal to defect in round Z−1, and thus round Z−2. . . . In other
+words, when two individuals play for a known number of rounds, the
+optimal strategy precludes cooperation.
+But what if the number of rounds is unknown (an “iterated” PD)?
+Things get interesting. Which is when the game theorists and biologists
+met.
+The catalyst was political scientist Robert Axelrod of the University
+of Michigan. He explained to his colleagues how PD works and asked
+them what strategy they’d use in a game with an unknown number of
+rounds. The strategies offered varied enormously, with some being hair-
+raisingly complicated. Axelrod then programmed the various strategies
+and pitted them against each other in a simulated massive round-robin
+tournament. Which strategy won, was most optimal?
+It was provided by a mathematician at the University of Toronto,
+Anatol Rapoport; as the mythic path-of-the-hero story goes, it was the
+simplest strategy. Cooperate in the first round. After that, you do
+whatever the other player did in the previous round. It was called Tit for
+Tat. More details:
+You cooperate (C) in the first round, and if the other player always
+cooperates (C), you both happily cooperate into the sunset:
+Example 1:
+349

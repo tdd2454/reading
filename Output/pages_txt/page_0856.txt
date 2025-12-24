@@ -1,0 +1,5 @@
+* This is termed “Pavlovian conditioning” in a nod to Ivan Pavlov; it’s the same process by which Pavlov’s dogs learned to
+associate the conditioned stimulus of a bell with the unconditioned stimulus of food, so that the former eventually was able to
+provoke salivation. Less reliable are “operant conditioning” approaches, in which the degree to which something is scary is
+assessed by how much an individual will work to avoid being exposed to it.
+855

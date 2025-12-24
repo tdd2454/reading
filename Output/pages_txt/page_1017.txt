@@ -1,0 +1,3 @@
+* Although many purists in the field would say that we don’t actually inherit a trait; we inherit the material needed to
+construct a trait.
+1016

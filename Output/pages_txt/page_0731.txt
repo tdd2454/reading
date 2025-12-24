@@ -1,0 +1,52 @@
+91. B. Knutson et al., “Anticipation of Increasing Monetary Reward Selectively Recruits Nucleus
+Accumbens,” J Nsci 21 (2001): RC159.
+92. G. Stuber et al., “Reward-Predictive Cues Enhance Excitatory Synaptic Strength onto
+Midbrain Dopamine Neurons,” Sci 321 (2008): 1690; A. Luo et al., “Linking Context with
+Reward: A Functional Circuit from Hippocampal CA3 to Ventral Tegmental Area,” Sci 33
+(2011): 353; J. O’Doherty, “Reward Representations and Reward-Related Learning in the
+Human Brain: Insights from Neuroimaging,” Curr Opinions in Neurobiol 14 (2004): 769; M.
+Cador et al., “Involvement of the Amygdala in Stimulus-Reward Associations: Interaction with
+the Ventral Striatum,” Nsci 30 (1989): 77; J. Britt et al., “Synaptic and Behavioral Profile of
+Multiple Glutamatergic Inputs to the Nucleus Accumbens,” Neuron 76 (2012): 790; G. Stuber
+et al., “Optogenetic Modulation of Neural Circuits That Underlie Reward Seeking,” BP 71
+(2012): 1061; F. Ambroggi et al., “Basolateral Amygdala Neurons Facilitate Reward-Seeking
+Behavior by Exciting Nucleus Accumbens Neurons,” Neuron 59 (2008): 648.
+93. S. Hyman et al., “Neural Mechanisms of Addiction: The Role of Reward-Related Learning
+and Memory,” Ann Rev of Nsci 29 (2006): 565; B. Lee et al., “Maturation of Silent Synapses in
+Amygdala-Accumbens Projection Contributes to Incubation of Cocaine Craving,” Nat Nsci 16
+(2013): 1644. For a consideration of compulsive behaviors as a sort of addiction: S. Rauch and
+W. Carlezon, “Illuminating the Neural Circuitry of Compulsive Behaviors,” Sci 340 (2013):
+1174; S. Ahmari et al., “Repeated Cortico-Striatal Stimulation Generates Persistent OCD-like
+Behavior,” Sci 340 (2013): 1234; E. Burguiere et al., “Optogenetic Stimulation of Lateral
+Orbitofronto-Striatal Pathway Suppresses Compulsive Behaviors,” Sci 340 (2013): 1243.
+94. S. Flagel et al., “A Selective Role for Dopamine in Stimulus-Reward Learning,” Nat 469
+(2011): 53; K. Burke et al., “The Role of the Orbitofrontal Cortex in the Pursuit of Happiness
+and More Specific Rewards,” Nat 454 (2008): 340.
+95. P. Tobler et al., “Adaptive Coding of Reward Value by Dopamine Neurons,” Sci 307 (2005):
+1642; C. Fiorillo et al., “Discrete Coding of Reward Probability and Uncertainty by Dopamine
+Neurons,” Sci 299 (2003): 1898.
+96. B. Knutson et al., “Distributed Neural Representation of Expected Value,” J Nsci 25 (2005):
+4806; M. Stefani and B. Moghaddam, “Rule Learning and Reward Contingency Are
+Associated with Dissociable Patterns of Dopamine Activation in the Rat Prefrontal Cortex,
+Nucleus Accumbens, and Dorsal Striatum,” J Nsci 26 (2006): 8810.
+97. R. Habib and M. Dixon, “Neurobehavioral Evidence for the “Near-Miss” Effect in
+Pathological Gamblers,” J the Exp Analysis of Behav 93 (2010): 313; M. Hsu et al., “Neural
+Systems Responding to Degrees of Uncertainty in Human Decision-Making,” Sci 310 (2006):
+1680.
+98. A. Braun et al., “Dorsal Striatal Dopamine Depletion Impairs Both Allocentric and
+Egocentric Navigation in Rats,” Neurobiol of Learning and Memory 97 (2012): 402; J.
+Salamone, “Dopamine, Effort, and Decision Making,” Behavioral Nsci 123 (2009): 463; I.
+Whishaw and S. Dunnett, “Dopamine Depletion, Stimulation or Blockade in the Rat Disrupts
+Spatial Navigation and Locomotion Dependent upon Beacon or Distal Cues,” BBR 18 (1985):
+11; J. Salamone and M. Correa, “The Mysterious Motivational Functions of Mesolimbic
+Dopamine,” Neuron 76 (2012): 470; H. Tsai et al., “Phasic Firing in Dopaminergic Neurons Is
+Sufficient for Behavioral Conditioning,” Sci 324 (2009): 1080; P. Phillips et al., “Sub-second
+Dopamine Release Promotes Cocaine Seeking,” Nat 422 (2003): 614; M. Pessiglione et al.,
+“Dopamine-Dependent Prediction Errors Underpin Reward-Seeking Behavior in Humans,”
+Nat 442 (2008): 1042.
+99. Footnote: M. Numan and D. Stoltzenberg, “Medial Preoptic Area Interactions with Dopamine
+Neural systems in the Control of the Onset and Maintenance of Maternal Behavior in Rats,”
+Front Neuroendo 30 (2009): 46.
+100. S. McClue et al., “Separate Neural Systems Value Immediate and Delayed Monetary
+Rewards,” Sci 306 (2004): 503; J. Jennings et al., “Distinct Extended Amygdala Circuits for
+730

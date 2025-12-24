@@ -1,0 +1,9 @@
+* Listing these various factors that “enhance” or “inhibit” neurogenesis glosses over lots of detail. The number of new
+neurons that are integrated into circuits reflects (a) the number of new cells that are formed from stem cells in the brain; (b)
+the percentage of new cells that differentiate into neurons (as opposed to glial cells); and (c) the rate at which new neurons
+survive and form functional synapses. Each of these manipulations—learning, exercise, stress, etc.—targets different steps.
+Complicating things further is the fact that not all stressors are equal. If a rodent secretes glucocorticoids because it thinks
+there is a predator around and the fight-or-flight sirens are going off, neurogenesis is inhibited. But if it secretes
+glucocorticoids while voluntarily running in a running wheel, it enhances neurogenesis (in other words, the contrast between
+“bad” and “good” stress).
+949

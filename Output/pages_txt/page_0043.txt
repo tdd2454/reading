@@ -1,0 +1,39 @@
+The fuzzy distinction between innate and learned fear maps nicely
+onto the amygdala’s structure. The evolutionarily ancient central
+amygdala plays a key role in innate fears. Surrounding it is the
+basolateral amygdala (BLA), which is more recently evolved and
+somewhat resembles the fancy, modern cortex. It’s the BLA that learns
+fear and then sends the news to the central amygdala.
+Joseph LeDoux at New York University has shown how the BLA
+learns fear.*20 Expose a rat to an innate trigger of fear—a shock. When
+this “unconditioned stimulus” occurs, the central amygdala activates,
+stress hormones are secreted, the sympathetic nervous system mobilizes,
+and, as a clear end point, the rat freezes in place—“What was that? What
+do I do?” Now do some conditioning. Before each shock, expose the rat
+to a stimulus that normally does not evoke fear, such as a tone. And with
+repeated coupling of the tone (the conditioned stimulus) with the shock
+(the unconditioned one), fear conditioning occurs—the sound of the tone
+alone elicits freezing, stress hormone release, and so on.*
+LeDoux and others have shown how auditory information about the
+tone stimulates BLA neurons. At first, activation of those neurons is
+irrelevant to the central amygdala (whose neurons are destined to
+activate following the shock). But with repeated coupling of tone with
+shock, there is remapping and those BLA neurons acquire the means to
+activate the central amygdala.*
+BLA neurons that respond to the tone only once conditioning has
+occurred would also have responded if conditioning instead had been to
+a light. In other words, these neurons respond to the meaning of the
+stimulus, rather than to its specific modality. Moreover, if you
+electrically stimulate them, rats are easier to fear-condition; you’ve
+lowered the threshold for this association to be made. And if you
+electrically stimulate the auditory sensory input at the same time as
+shocks (i.e., there’s no tone, just activation of the pathway that normally
+carries news of the tone to the amygdala), you cause fear conditioning to
+a tone. You’ve engineered the learning of a false fear.
+There are synaptic changes as well. Once conditioning to a tone has
+occurred, the synapses coupling the BLA and central nucleus neurons
+have become more excitable; how this occurs is understood at the level
+of changes in the amount of receptors for excitatory neurotransmitters in
+dendritic spines in these circuits.* Furthermore, conditioning increases
+levels of “growth factors,” which prompt the growth of new connections
+42

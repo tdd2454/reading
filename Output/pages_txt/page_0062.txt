@@ -1,0 +1,37 @@
+trolley” problem, where a trolley is bearing down on five people and you
+must decide if it’s okay to kill one person to save the five. Framing of the
+problem is key. In one version you pull a lever, diverting the trolley onto
+a side track. This saves the five, but the trolley kills someone who
+happened to be on this other track; 70 to 90 percent of people say they
+would do this. In the second scenario you push the person in front of the
+trolley with your own hands. This stops the trolley, but the person is
+killed; 70 to 90 percent say no way. The same numerical trade-off, but
+utterly different decisions.
+Greene and Cohen gave subjects the two versions while
+neuroimaging them. Contemplating intentionally killing someone with
+your own hands activates the decider dlPFC, along with emotion-related
+regions that respond to aversive stimuli (including a cortical region
+activated by emotionally laden words), the amygdala, and the vmPFC.
+The more amygdaloid activation and the more negative emotions the
+participant reported in deciding, the less likely they were to push.
+And when people contemplate detachedly pulling a lever that
+inadvertently kills someone? The dlPFC alone activates. As purely
+cerebral a decision as choosing which wrench to use to fix a widget. A
+great study.*
+Other studies have examined interactions between “cognitive” and
+“emotional” parts of the brain. A few examples:
+Chapter 3 discusses some unsettling research—stick your
+average person in a brain scanner, and show him a picture of
+someone of another race for only a tenth of a second. This is too
+fast for him to be aware of what he saw. But thanks to that
+anatomical shortcut, the amygdala knows . . . and activates. In
+contrast, show the picture for a longer time. Again the amygdala
+activates, but then the cognitive dlPFC does as well, inhibiting
+the amygdala—the effort to control what is for most people an
+unpalatable initial response.
+Chapter 6 discusses experiments where a subject plays a game
+with two other people and is manipulated into feeling that she is
+being left out. This activates her amygdala, periaqueductal gray
+(that ancient brain region that helps process physical pain),
+anterior cingulate, and insula, an anatomical picture of anger,
+61

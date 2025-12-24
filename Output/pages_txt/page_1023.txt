@@ -1,0 +1,5 @@
+* Harking back to how the noncoding regulatory regions of the genome are at least as important as regions that code for
+genes themselves, the 5HTT variants do not differ in the DNA sequence of the gene but rather in the sequence of a promoter
+for the gene. As a result, the two variants differ in their sensitivity to a transcription factor, and thus in the amount of
+transporter protein made.
+1022

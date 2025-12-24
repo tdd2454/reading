@@ -1,0 +1,30 @@
+PART 2: GENES FROM THE TOP DOWN—
+BEHAVIOR GENETICS
+L
+ong before anything was known about promoters, exons, or
+transcription factors, it became clear that you study genetics top
+down, by observing traits shared by relatives. Early in the last century,
+this emerged as the science of “behavior genetics.” As we’ll see, the field
+has often been mired in controversy, typically because of disagreements
+over the magnitude of genetic effects on things like IQ or sexual
+orientation.
+First Attempts
+The field began with the primitive idea that, if everyone in a family
+does it, it must be genetic. This was confounded by environment running
+in families as well.
+The next approach depended on closer relatives having more genes in
+common than distant ones. Thus, if a trait runs in a family and is more
+common among closer relatives, it’s genetic. But obviously, closer
+relatives share more environment as well—think of a child and parent
+versus a child and grandparent.
+Research grew subtler. Consider someone’s biological aunt (i.e., the
+sister of a parent), and the uncle who married the aunt. The uncle shares
+some degree of environment with the individual, while the aunt shares
+the same, plus genes. Therefore, the extent to which the aunt is more
+similar to the individual than the uncle reflects the genetic influence. But
+as we’ll see, this approach has problems.
+More sophistication was needed.
+Twins, Adoptees, and Adopted Twins
+A major advance came with “twin studies.” Initially, examining
+twins helped rule out the possibility of genetic determination of a
+235

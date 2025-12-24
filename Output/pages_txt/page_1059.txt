@@ -1,0 +1,15 @@
+* That is, the heterozygotic state. I made the tough decision to bypass homozygosity and heterozygosity in the main text, in
+the interest of simplicity for the newcomer, and to instead exile the subject to footnotes. A brief primer: A point that I blithely
+ignored in the genetics chapter is that most species, including humans, are “diploid,” which means that there are actually two
+sets of chromosomes in each cell, with the same variety of genes. Eggs and sperm are specialized cells, being haploid (i.e.,
+containing only a single copy of a chromosome). Put them together, and the egg that is destined to make you you is now
+fertilized (i.e., diploid). Thus you actually have two copies of each gene, one from each parent. (Footnote to a footnote: the
+exception is a specialized collection of genes in mitochondria, which come almost entirely from the mother). If both copies of
+the gene have sequences that code for identical copies of a protein, the gene is “homozygotic.” If there are two different
+versions, the gene is “heterozygotic.” What sort of trait is specified by the heterozygotic mixing of a gene? Some of the time,
+the result is a trait that is intermediate between the two possible forms of homozygosity. More often the heterozygotic form
+produces a trait that is identical to one of the two homozygotic forms. In other words, one of the versions “wins” out over the
+other and is called a “dominant” version of the gene. In contrast, versions of genes that produce a trait only when in the
+homozygotic form are “recessive.” If this is vastly confusing, I promise that you’ll be okay reading the rest of the book,
+nonetheless.
+1058

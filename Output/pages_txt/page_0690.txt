@@ -1,0 +1,35 @@
+Neurotransmitters
+Sitting inside each axon terminal, tethered to the membrane, are little
+balloons called vesicles, filled with many copies of a chemical
+messenger. Along comes the action potential that initiated miles away in
+that neuron’s axon hillock. It sweeps over the terminal and triggers the
+release of those chemical messengers into the synapse. Which they float
+across, reaching the dendritic spine on the other side, where they excite
+the neuron. These chemical messengers are called neurotransmitters.
+How do neurotransmitters, released from the “presynaptic” side of
+the synapse, cause excitation in the “postsynaptic” dendritic spine?
+Sitting on the membrane of the spine are receptors for the
+neurotransmitter. Time to introduce one of the great clichés of biology.
+The neurotransmitter molecule has a distinctive shape (with each copy of
+the molecule having the same). The receptor has a binding pocket of a
+distinctive shape that is perfectly complementary to the shape of the
+neurotransmitter. And thus the neurotransmitter—cliché time—fits into
+the receptor like a key into a lock. No other molecule fits snugly into that
+receptor; the neurotransmitter molecule won’t fit snugly into any other
+type of receptor. Neurotransmitter binds to receptor, which triggers those
+channels to open, and the currents of ionic excitation begin in the
+dendritic spine.
+This describes “transsynaptic” communication with
+neurotransmitters. Except for one detail: what happens to the
+neurotransmitter molecules after they bind to the receptors? They don’t
+bind forever—remember that action potentials occur on the order of a
+millisecond. Instead they float off the receptors, at which point the
+neurotransmitters have to be cleaned up. This occurs in one of two ways.
+First, for the ecologically minded synapse, there are “reuptake pumps” in
+the membrane of the axon terminal. They take up the neurotransmitters
+and recycle them, putting them back into those secretory vesicles to be
+used again.* The second option is for the neurotransmitter to be
+degraded in the synapse by an enzyme, with the breakdown products
+flushed out to sea (i.e., the extracellular environment, and from there on
+to the cerebrospinal fluid, the bloodstream, and eventually the bladder).
+689

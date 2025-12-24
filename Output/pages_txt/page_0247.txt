@@ -1,0 +1,39 @@
+you answer, “It depends on the version of the gene.” “It depends” = a
+gene/environment interaction.
+Here are some classic examples concerning behavior:32
+The disease phenylketonuria arises from a single gene mutation;
+skipping over details, the mutation disables an enzyme that converts a
+potentially neurotoxic dietary constituent, phenylalanine, into something
+safe. Thus, if you eat a normal diet, phenylalanine accumulates,
+damaging the brain. But eat a phenylalanine-free diet from birth, and
+there is no damage. What are the effects of this mutation on brain
+development? It depends on your diet. What’s the effect of diet on brain
+development? It depends on whether you have this (rare) mutation.
+Another gene/environment interaction pertains to depression, a
+disease involving serotonin abnormalities.33 A gene called 5HTT codes
+for a transporter that removes serotonin from the synapse; having a
+particular 5HTT variant increases the risk of depression . . . but only
+when coupled with childhood trauma.* What’s the effect of 5HTT
+variant on depression risk? It depends on childhood trauma exposure.
+What’s the effect of childhood trauma exposure on depression risk? It
+depends on 5HTT variant (plus loads of other genes, but you get the
+point).
+Another example concerns FADS2, a gene involved in fat
+metabolism.34 One variant is associated with higher IQ, but only in
+breast-fed children. Same pair of “what’s the effect” questions, same “it
+depends” answers.
+One final gene/environment interaction was revealed in an important
+1999 Science paper. The study was a collaboration among three
+behavioral geneticists—one at Oregon Health Sciences University, one at
+the University of Alberta, and one at the State University of New York in
+Albany.35 They studied mouse strains known to have genetic variants
+relevant to particular behaviors (e.g., addiction or anxiety). First they
+ensured that the mice from a particular strain were essentially genetically
+identical in all three labs. Then the scientists did cartwheels to test the
+animals in identical conditions in the labs.
+They standardized everything. Because some mice were born in the
+lab but others came from breeders, homegrowns were given bouncy van
+rides to simulate the jostling that commercially bred mice undergo
+during shipping, just in case that was important. Animals were tested at
+the same day of age on the same date at the same local time. Animals
+246

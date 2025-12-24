@@ -1,0 +1,3 @@
+* Terminology: A gene is “transcribed” when the RNA template of its DNA sequence is made, which is then used to generate
+the protein that it codes for.
+1000

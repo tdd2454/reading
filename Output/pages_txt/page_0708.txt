@@ -1,0 +1,27 @@
+Appendix 2
+The Basics of
+Endocrinology
+E
+ndocrinology is the study of hormones, very different sorts of
+messengers from the neurotransmitters of chapter 2. As a recap,
+neurotransmitters are released from neurons’ axon terminals in response
+to action potentials. Once released, they travel a microscopic distance
+across the synapse and bind to receptors on dendrites of the second,
+postsynaptic neuron, thereby changing that neuron’s excitability.
+In contrast, a hormone is a chemical messenger released from
+secretory cells (including neurons) in various glands. Once secreted, it
+enters the bloodstream, where it can influence any cells throughout the
+body that possess receptors for it.* So right off the bat we have key
+differences. First, neurotransmitters directly affect only neurons on the
+other side of synapses, while a hormone can potentially affect each of the
+trillions of cells in the body. A second difference is the time course;
+neurotransmitter signaling across synapses occurs in milliseconds. In
+contrast, many hormonal effects emerge over hours to days and can
+persist forever (for example, how often does puberty go away after a
+while?).
+Neurotransmitters and hormones also differ in the scale of their
+effects. A neurotransmitter binds to its postsynaptic receptor, resulting in
+a local change in the flow of ions across the membrane of that dendritic
+spine. But depending on the hormone and the target cell being
+considered, hormones can change the activity of particular proteins, turn
+707

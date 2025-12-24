@@ -1,0 +1,7 @@
+What might we call the consequence of some types of atypically
+wide associative nets of neurons? Creativity.
+One More Round of Scaling Up
+A neuron, two neurons, a neuronal circuit. We’re ready now, as a last
+step, to scale up to the level of thousands of neurons at once.
+Consider the following slice of tissue viewed under a microscope:
+703

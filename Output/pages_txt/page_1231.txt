@@ -1,0 +1,5 @@
+* As an aside, there has been incredibly interesting work concerning emergent properties of the brain that helps explain how
+the different regions wire up in the developing brain in an optimal way that minimizes the amount (and thus “cost”) of axonal
+projections needed. For aficionados, the things the developing brain does bear some resemblance to some approaches used
+for the Traveling Salesman Problem.
+1230

@@ -1,0 +1,39 @@
+our earlier metaphor—the neuron now has something to say and it is
+screaming its head off. What might things look like then when the
+neuron has nothing to say, has not been stimulated? Maybe a state of
+equilibrium, where the inside and outside have equal, neutral charges?*
+No, never! That’s good enough for some cell in your spleen or your big
+toe. But back to that critical issue, that neurons are all about contrasts.
+When a neuron has nothing to say, that isn’t some passive state of things
+just trickling down to zero. Instead it’s an active process. An active,
+intentional, forceful, muscular, sweaty process. Instead of the “I have
+nothing to say” state being one of charge neutrality, the inside of the
+neuron is negatively charged relative to the outside.
+You couldn’t ask for a more dramatic contrast: I have nothing to say
+= inside of the neuron is negatively charged. I have something to say =
+inside is positive. No neuron ever confuses the two. The internally
+negative state is called the “resting potential.” The excited state is called
+the “action potential.” And why is generating this dramatic resting
+potential such an active process? Because neurons have to work like
+crazy, using various pumps in their membranes, to push some positively
+charged ions out and to keep some negatively charged ones in, all in
+order to generate that negative internal resting state. Along comes an
+excitatory signal; the pumps stop working, channels open, and ions rush
+this way and that to generate the excitatory positive internal charge. And
+when that wave of excitation has passed, the channels close and the
+pumps go back into action, regenerating that negative resting potential.
+Remarkably, neurons spend nearly half their energy on the pumps that
+generate the resting potential. It doesn’t come cheap to generate dramatic
+contrasts between having nothing to say and having some exciting news.
+Now that we understand resting potentials and action potentials, on
+to the other gigantically important detail:
+That’s not what action potentials really are. What I’ve just outlined is that a
+single dendritic fibril receives an excitatory signal from the previous
+neuron (i.e., the previous neuron has had an action potential); this
+generates an action potential in that dendrite, which propagates toward
+the cell body, over it, on to the axon, to the axon terminals, and signals
+the next neuron in line. Not true. Instead:
+So the neuron is sitting there with nothing to say, which is to say that
+it’s displaying a resting potential; all of its insides are negatively
+charged. Along comes an excitatory signal at that one dendritic fibril,
+683

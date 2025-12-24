@@ -1,0 +1,37 @@
+Sharks versus the Jets: Differing sorts of people living in close
+proximity rub, and thus abrade, elbows regularly. One side’s act
+of proud cultural identification feels like a hostile dig to the other
+side, public spaces become proving grounds for turf battles,
+commons become tragedies.
+Surprise: both outcomes occur; the final chapter explores
+circumstances where intergroup contact leads to one rather than the
+other. Most interesting at this juncture is the importance of the spatial
+qualities of the heterogeneity. Consider a region filled with people from
+Elbonia and Kerplakistan, two hostile groups, each providing half the
+population. At one extreme, the land is split down the middle, each
+group occupying one side, producing a single boundary between the two.
+At the other extreme is a microcheckerboard of alternating ethnicities,
+where each square on the grid is one person large, producing a vast
+quantity of boundaries between Elbonians and Kerplakis.
+Intuitively, both scenarios should bias against conflict. In the
+condition of maximal separation, each group has a critical mass to be
+locally sovereign, and the total length of border, and thus of the amount
+of intergroup elbow rubbing, is minimized. In the scenario of maximal
+mixing, no patch of ethnic homogeneity is big enough to foster a self-
+identity that can dominate a public space—big deal if someone raises a
+flag between their feet and declares their square meter to be the Elbonian
+Empire or a Kerplakistani Republic.
+But in the real world things are always in between the two extremes,
+and with variation in the average size of each “ethnic patch.” Does patch
+size, and thus amount of border, influence relations?
+This was explored in a fascinating paper from the aptly named New
+England Complex Systems Institute, down the block from MIT.49 The
+authors first constructed an Elbonian/Kerplaki mixture, with individuals
+randomly distributed as pixels on a grid. Pixels were given a certain
+degree of mobility plus a tendency to assort with other pixels of the same
+type. As self-assortment progresses, something emerges—islands and
+peninsulas of Elbonians amid a sea of Kerplakis, or the reverse, a
+condition that intuitively seems rife with potential intergroup violence.
+As self-assortment continues, the number of such isolated islands and
+peninsulas declines. The intermediate stage that maximizes the number
+299

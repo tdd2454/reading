@@ -1,0 +1,6 @@
+* The central dogma of “information flows from DNA to RNA to protein” can be wrong. There are circumstances where
+RNA can determine the sequence of DNA. This has lots to do with how some viruses work but isn’t relevant to us. Another
+bit of revisionism, one that garnered two Nobel Prizes in 2006, is that a huge percentage of RNA does not then specify the
+construction of some protein. Instead it can target and destroy other sequences of RNA, a phenomenon known as “RNA
+interference.” Still other RNAs are created simply to render some segments of DNA itself “unreadable.”
+1239

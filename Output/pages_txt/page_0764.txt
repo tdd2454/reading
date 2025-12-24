@@ -1,0 +1,52 @@
+27. M. Stoolmiller, “Correcting Estimates of Shared Environmental Variance for Range
+Restriction in Adoption Studies Using a Truncated Multivariate Normal Model,” Behav Gen
+28 (1998) 429; M. Stoolmiller, “Implications of Restricted Range of Family Environments for
+Estimates of Heritability and Nonshared Environment in Behavior-Genetic Adoption Studies,”
+Psych Bull 125 (1999): 392; M. McGue et al., “The Environments of Adopted and Non-
+adopted Youth: Evidence on Range Restriction from the Sibling Interaction and Behavior
+Study (SIBS),” Behav Gen 37 (2007): 449.
+28. R. Ebstein et al., “Genetics of Human Social Behavior,” Neuron 65 (2008): 831.
+29. This example comes from N. Block, “How Heritability Misleads About Race,” Cog 56
+(1995): 99–128.
+30. D. Moore, The Dependent Gene: The Fallacy of “Nature Versus Nurture” (NY: Holt, 2001);
+M. Ridley, Nature via Nurture (New York: HarperCollins, 2003); A. Tenesa and C. Haley,
+“The Heritability of Human Disease: Estimation, Uses and Abuses,” Nat Rev Genetics 14
+(2013): 139; P. Schonemann, “On Models and Muddles of Heritability,” Genetica 99 (1997):
+97.
+31. T. Bouchard and M. McGue, “Genetic and Environmental Influences on Human
+Psychological Differences,” J Neurobiol 54 (2003): 4.
+32. L. E. Duncan and M. C. Keller, “A Critical Review of the First 10 Years of Candidate Gene-
+by-Environment Interaction Research in Psychiatry,” Am J Psychiatry 168 (2011): 1041; S.
+Manuck and J. McCaffery, “Gene-Environment Interaction,” Ann Rev of Psych 65 (2014): 41.
+33. A. Caspi et al., “Influence of Life Stress on Depression: Moderation by a Polymorphism in
+the 5-HTT Gene,” Sci 297 (2002): 851.
+34. A. Caspi et al., “Moderation of Breastfeeding Effects on the IQ by Genetic Variation in Fatty
+Acid Metabolism,” PNAS 104 (2007): 18860; B. K. Lipska and D. R. Weinberger, “Genetic
+Variation in Vulnerability to the Behavioral Effects of Neonatal Hippocampal Damage in
+Rats,” PNAS 92 (1995): 8906.
+35. J. Crabbe et al., “Genetics of Mouse Behavior: Interactions with Laboratory Environment,”
+Sci 284 (1999): 1670.
+36. A nice example of a dual environment hit: N. P. Daskalakis et al., “The Three-Hit Concept of
+Vulnerability and Resilience: Toward Understanding Adaptation to Early-Life Adversity
+Outcome,” PNE 38 (2013): 1858.
+37. E. Turkheimer et al., “Socioeconomic Status Modifies Heritability of IQ in Young Children,”
+Psych Sci 14 (2003): 623; E. M. Tucker-Drob et al., “Emergence of a Gene x Socioeconomic
+Status Interaction on Infant Mental Ability Between 10 Months and 2 Years,” Psych Sci 22
+(2010): 125; M. Rhemtulla and E. M. Tucker-Drob, “Gene-by-Socioeconomic Status
+Interaction on School Readiness,” Behav Genetics 42 (2012): 549; D. Reiss et al., “How Genes
+and the Social Environment Moderate Each Other,” Am J Public Health 103 (2013): S111; S.
+A. Hart et al., “Expanding the Environment: Gene × School-Level SES Interaction on Reading
+Comprehension,” J Child Psych and Psychiatry 54 (2013): 1047; J. R. Koopmans et al., “The
+Influence of Religion on Alcohol Use Initiation: Evidence for Genotype × Environment
+Interaction,” Behav Genetics 29 (1999): 445.
+38. S. Nielsen et al., “Prevalence of Alcohol Problems Among Adult Somatic Inpatients of a
+Copenhagen Hospital,” Alcohol and Alcoholism 29 (1994): 583; S. Manuck et al., “Aggression
+and Anger-Related Traits Associated with a Polymorphism of the Tryptophan Hydroxylase
+Gene,” BP 45 (1999): 603; J. Hennig et al., “Two Types of Aggression Are Differentially
+Related to Serotonergic Activity and the A779C TPH Polymorphism,” Behav Nsci 119 (2005):
+16; A. Strobel et al., “Allelic Variation in 5-HT1A Receptor Expression Is Associated with
+Anxiety- and Depression-Related Personality Traits,” J Neural Transmission 110 (2003): 1445;
+R. Parsey et al., “Effects of Sex, Age, and Aggressive Traits in Man on Brain Serotonin 5-
+HT1A Receptor Binding Potential Measured by PET Using [C-11]WAY-100635,” Brain Res
+954 (2002): 173; A. Benko et al., “Significant Association Between the C(-1019)G Functional
+763

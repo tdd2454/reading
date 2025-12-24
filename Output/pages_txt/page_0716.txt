@@ -1,0 +1,38 @@
+But if the mutation codes for an amino acid that produces a protein
+with a dramatically different shape, the consequences can be enormous
+(even fatal).
+Back to
+“I/am/now/going/to/do/the/following”
+What if there is a mutation in a nucleotide helping to code for the
+first w, a mutation with a big consequence?
+“I/am/not/going/to/do/the/following”
+Trouble.
+The next type of classical mutation is called a deletion mutation. In
+this scenario a copying error is made during the inheritance of a gene.
+But instead of a nucleotide being miscopied, it is deleted. For example,
+in a case where the seventh nucleotide is deleted,
+“I/am/now/going/to/do/the/following”
+becomes
+“I/am/now/oingt/od/ot/hef/ollowing”
+This can frameshift everything over to generate gibberish, or even a
+different message (e.g., “For dessert I’d like the mousse” mutating to
+“For dessert I’d like the mouse”).
+Deletion mutations can involve the loss of more than a single
+nucleotide. At an extreme, this can involve the deletion of the entire
+gene, or even a stretch of genes on a particular chromosome. Definitely
+not good.
+Finally, there are insertion mutations. During copying of the DNA to
+pass on to the next generation, a nucleotide is inadvertently copied twice,
+duplicated. Thus:
+“I/am/now/going/to/do/the/following”
+becomes
+“I/am/now/ggoin/gt/od/oth/efollowin”
+Gibberish, or perhaps a different message, as in the following case,
+where an e has been inserted near the end of the string of letters: “Mary
+turned John down for a date because she did not enjoy boweling.” In
+some cases an insertion mutation can involve the insertion of more than a
+single nucleotide. At an extreme, this can even involve the duplication of
+an entire gene.
+Point, deletion, and insertion mutations are most of what mutations
+are about.* Deletion and insertion mutations often have major
+715

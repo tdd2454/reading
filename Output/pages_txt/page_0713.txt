@@ -1,0 +1,33 @@
+What determines the shape and function of a protein? Any given
+protein is made of a string of amino acids. There are about 20 different
+types of amino acids—including some familiar ones like tryptophan and
+glutamate. Each protein’s string of amino acids is unique—like the string
+of letters that composes a word. Your typical protein is about 300 amino
+acids long, and with 20 different amino acid types, there are nearly 10400
+possible sequences (that’s ten followed by four hundred zeros)—more
+atoms than there are in the universe.* The amino acid sequence of a
+protein influences the unique shape(s) of that protein. Dogma used to be
+that amino acid sequence determines the shape(s) of that protein, but it
+turns out that the shape is also subtly altered by things like temperature
+and acidity—in other words, environmental influences.
+And what determines the sequence of amino acids that are strung
+together to form a particular protein? A particular gene.
+DNA AS THE BLUEPRINT FOR
+CONSTRUCTING PROTEINS
+DNA is another class of organic compounds, and just as there are
+roughly 20 different types of amino acids, there are 4 different “letters”
+(called nucleotides) that make up DNA. A sequence of 3 nucleotides
+(called a codon) codes for a single amino acid. If there are 4 different
+types of nucleotides, and each codon is 3 nucleotides long, there can be a
+total of 64 different codons (4 possibilities in the first place × 4 in the
+second × 4 in the third = 64). A few of those 64 are reserved to signal the
+end of a gene, and after eliminating those “stop codons,” there are 61
+different codons coding for 20 different amino acids. Therefore, there is
+“redundancy”—almost all amino acids can be specified by more than
+one unique codon (an average of about 3, i.e., 61/20). Typically the
+different codons coding for the same amino acid differ by only a single
+nucleotide. For example, four different codon sequences code for the
+amino acid alanine: GCA, GCC, GCG, and GCT (A, C, G, and T are the
+abbreviations for the four types of nucleotides).* Redundancy will be
+important for understanding gene evolution.
+712

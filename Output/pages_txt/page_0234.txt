@@ -1,0 +1,34 @@
+induces transpositions in particular cells, where the plant metaphorically
+shuffles its DNA deck, hoping to generate some novel savior of a
+protein.
+Mammals have fewer transposons than plants. The immune system is
+one transposon hot spot, in the enormous stretches of DNA coding for
+antibodies. A novel virus invades; shuffling the DNA increases the odds
+of coming up with an antibody that will target the invader.*
+The main point here is that transposons occur in the brain.11 In
+humans transpositional events occur in stem cells in the brain when they
+are becoming neurons, making the brain a mosaic of neurons with
+different DNA sequences. In other words, when you make neurons, that
+boring DNA sequence you inherited isn’t good enough. Remarkably,
+transpositional events occur in neurons that form memories in fruit flies.
+Even flies evolved such that their neurons are freed from the strict
+genetic marching orders they inherit.
+Chance
+Finally, chance lessens genes as the Code of Codes. Chance, driven
+by Brownian motion—the random movement of particles in a fluid—has
+big effects on tiny things like molecules floating in cells, including
+molecules regulating gene transcription.12 This influences how quickly
+an activated TF reaches the DNA, splicing enzymes bump into target
+stretches of RNA, and an enzyme synthesizing something grabs the two
+precursor molecules needed for the synthesis. I’ll stop here; otherwise,
+I’ll go on for hours.
+Some Key Points, Completing This Part of the
+Chapter
+a. Genes are not autonomous agents commanding
+biological events.
+b. Instead, genes are regulated by the environment, with
+“environment” consisting of everything from events
+inside the cell to the universe.
+c. Much of your DNA turns environmental influences into
+gene transcription, rather than coding for genes
+233

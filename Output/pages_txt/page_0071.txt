@@ -1,0 +1,39 @@
+Why? This is our world of habituation, where nothing is ever as good
+as that first time.
+Unfortunately, things have to work this way because of our range of
+rewards.86 After all, reward coding must accommodate the rewarding
+properties of both solving a math problem and having an orgasm.
+Dopaminergic responses to reward, rather than being absolute, are
+relative to the reward value of alternative outcomes. In order to
+accommodate the pleasures of both mathematics and orgasms, the
+system must constantly rescale to accommodate the range of intensity
+offered by particular stimuli. The response to any reward must habituate
+with repetition, so that the system can respond over its full range to the
+next new thing.
+This was shown in a beautiful study by Wolfram Schultz of
+Cambridge University.87 Depending on the circumstance, monkeys were
+trained to expect either two or twenty units of reward. If they
+unexpectedly got either four or forty units, respectively, there’d be an
+identical burst of dopamine release; giving one or ten units produced an
+identical decrease. It was the relative, not absolute, size of the surprise
+that mattered over a tenfold range of reward.
+These studies show that the dopamine system is bidirectional.88 It
+responds with scale-free increases for unexpected good news and
+decreases for bad. Schultz demonstrated that following a reward, the
+dopamine system codes for discrepancy from expectation—get what you
+expected, and there’s a steady-state dribble of dopamine. Get more
+reward and/or get it sooner than expected, and there’s a big burst; less
+and/or later, a decrease. Some tegmental neurons respond to positive
+discrepancy from expectation, others to negative; appropriately, the latter
+are local neurons that release the inhibitory neurotransmitter GABA.
+Those same neurons participate in habituation, where the reward that
+once elicited a big dopamine response becomes less exciting.*
+Logically, these different types of coding neurons in the tegmentum
+(as well as the accumbens) get projections from the frontal cortex—that’s
+where all the expectancy/discrepancy calculations take place—“Okay, I
+thought I was going to get 5.0 but got 4.9. How big of a bummer is
+that?”
+Additional cortical regions weigh in. In one study subjects were
+shown an item to purchase, with the degree of accumbens activation
+predicting how much a person would pay.89 Then they were told the
+70

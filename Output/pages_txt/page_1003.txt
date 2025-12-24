@@ -1,0 +1,3 @@
+* There are related stretches of noncoding DNA that are part of on/off switches called enhancers and operators. For our
+purposes, we’ll just use the term promoters.
+1002

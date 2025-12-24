@@ -1,0 +1,24 @@
+It’s a homogeneous field of cells, all organized in roughly the same
+way. The top left corner and bottom left corner look exactly the same.
+This is a liver in cross-section; if you’ve seen one part, you’ve seen it
+all. Boring.
+If the brain were this homogeneous and boring, it would be an
+undifferentiated mass of tissue, with neuronal cell bodies carpeted evenly
+all over the place, sending out their processes every which way. Instead
+there’s a huge amount of internal organization:
+In other words, the cell bodies of neurons that have related functions
+are clumped together in particular regions of the brain, and the axons that
+they send to other parts of the brain are organized into projection cables.
+What all this means, crucially, is that different parts of the brain do
+different things. All the regions of the brain have names (usually
+multisyllabic and derived from Greek or Latin), as do the subregions,
+and the sub-subregions. Moreover, each talks to a consistent collection of
+other regions (i.e., sends axons to them) and is talked to by a consistent
+collection (i.e., receives axonal projections from them).
+You can go crazy studying all this, as I’ve seen, tragically, in the case
+of many a neuroanatomist who relishes all these details. For our purposes
+there are some key points:
+Each particular region contains millions of neurons.
+Some familiar names at this level of analysis:
+hypothalamus, cerebellum, cortex, hippocampus.
+704

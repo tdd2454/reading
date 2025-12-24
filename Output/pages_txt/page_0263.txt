@@ -1,0 +1,37 @@
+GWAS techniques. Thus these traits are probably influenced by hundreds
+of genes.61
+What about behavior? A superb 2013 GWAS study examined the
+genetic variants associated with educational attainment.62 The usual
+over-the-top numbers—126,559 study subjects, about 180 authors. And
+the most predictive genetic variant accounted for 0.02 percent—two
+hundredths of one percent—of the variation. All the identified variants
+together accounted for about 2 percent of the variation. A commentary
+accompanying the paper contained this landmark of understatement: “In
+short, educational attainment looks to be a very polygenic trait.”
+Educational attainment—how many years of high school or college
+one completes—is relatively easy to measure. How about the subtler,
+messier behaviors that fill this book’s pages? A handful of studies have
+tackled that, and the findings are much the same—at the end, you have a
+list of scores of genes implicated and can then go figure out what they do
+(logically, starting with the ones that showed the strongest statistical
+associations). Hard, hard approaches that are still in their infancy. Made
+worse by a GWAS missing more subtly variable spots,* meaning even
+more genes are likely involved.63
+—
+As we conclude this section, some key points:64
+a. This review of candidate genes barely scratches even the
+surface of the surface. Go on PubMed (a major search
+engine of the biomedical literature) and search “MAO
+gene/behavior”—up come more than 500 research
+papers. “Serotonin transporter gene/behavior”—1,250
+papers. “Dopamine receptor gene/behavior”—nearly
+2,000.
+b. The candidate gene approaches show that the effect of a
+single gene on a behavior is typically tiny. In other
+words, having the “warrior gene” variant of MAO
+probably has less effect on your behavior than does
+believing that you have it.
+c. Genomewide survey approaches show that these
+behaviors are influenced by huge numbers of genes,
+each one playing only a tiny role.
+262

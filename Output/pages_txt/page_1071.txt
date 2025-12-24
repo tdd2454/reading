@@ -1,0 +1,10 @@
+* To rein in the length of this chapter, I’ve had to force myself to relegate to this footnote a description of a system of
+reciprical altruism found in single-cell amoeba called Dictyostelium discoideum (aka slime mold). In order to reproduce,
+individual cells join in a structured colony in which about 80 percent of the cells reproduce and the rest play nonreproductive
+supporting roles. When the colony consists of two different genetic lines of amoebas, there is cooperation in that each line
+contributes about 20 percent of its cells to the unfun supporting role. Except that lines evolve to try to cheat by sneaking all
+their cells into the reproductive pool, and other lines evolve to detect cheaters and refuse to interact with them. For example,
+the amoebas express a cell-surface protein “adhesion molecule” that lets cells adhere to one another, forming the colony; an
+anticheater mechanism is to express an adhesion molecule that doesn’t recognize (i.e., attach to) the adhesion protein of a
+cheater line.
+1070

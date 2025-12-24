@@ -1,0 +1,10 @@
+And out of this comes a rule: the more neurons that neuron A projects to,
+by definition, the more neurons it can influence; however, the more
+neurons it projects to, the smaller its average influence will be at each of
+those target neurons. There’s a trade-off.
+This doesn’t matter in the spinal cord, where one neuron typically
+sends all its projections to the next one in line. But in the brain one
+neuron will disperse its projections to scads of other ones and receive
+inputs from scads of other ones, with each neuron’s axon hillock
+determining whether the threshold is reached and an action potential
+686

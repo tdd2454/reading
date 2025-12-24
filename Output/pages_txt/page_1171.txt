@@ -1,0 +1,4 @@
+* This is determined with a “hot-plate test.” A mouse is placed on a room-temperature hot plate; the temperature of the plate
+is gradually raised. You can tell the instant when the heat first becomes uncomfortable—the mouse lifts a paw (at which point
+the mouse is removed). What was the plate’s temperature at that point? That’s the mouse’s pain threshold.
+1170

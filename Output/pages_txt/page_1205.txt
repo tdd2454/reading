@@ -1,0 +1,5 @@
+* Just to give a sense of how few baby steps we’ve taken, the maximal number of contributing variables identified in
+predicting depression is serotonin transporter status + childhood adversity status + adult social support status. That’s it, that’s
+about how far the literature has gotten. For frontal damage and antisocial violence, it’s neurological status of frontal cortex +
+D4 dopamine receptor subtype + ADHD status.
+1204

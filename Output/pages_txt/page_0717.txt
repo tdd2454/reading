@@ -1,0 +1,33 @@
+consequences, usually deleterious, but sometimes produce a new,
+interesting protein.
+Back to point mutations. Consider one that results in the substitution
+of a single amino acid in the protein, one that works a bit differently
+from the correct amino acid. As noted above, as a result, the protein still
+does its old job, but maybe does it a bit faster or slower. This could be
+the grist for evolutionary change—if the new version is disadvantageous,
+reducing the reproductive success of anyone who carries it, it will be
+gradually selected against, removing it from a population. If instead the
+new version is more advantageous, it will gradually replace the old one
+in a population. Or if the new version works better than the original in
+some circumstances but worse in others, it may reach equilibrium in the
+population with the original version, where a certain percentage of
+people have the old version, the remainder the new. In this case the
+particular gene would be described as coming in two different forms or
+variants, as coming with two different “alleles.” Most genes come with
+multiple alleles. And the result is individual variation in the functioning
+of genes (this is covered in far more complexity in chapter 8).
+Finally, a clarification of the confusion where two sound bites about
+genetics collide. The first is that, on the average, full (non–identical
+twin) siblings share 50 percent of their genes.* The other is that we share
+98 percent of our genes with chimps. So are we more related to chimps
+than to our siblings? No. Comparisons between humans and chimps are
+about types of traits—we both have genes coding for traits related to
+having, for example, eyes, muscle fibers, or dopamine receptors, and
+both lack genes related to having, for example, gills, antennae, or flower
+petals. So there’s 98 percent overlap at that level of comparison. But
+comparison between any two humans is about versions of those traits—
+both have a gene that codes for, say, this thing called eye color, but do
+they share the version that codes for the same particular color? Same for
+blood type, type of dopamine receptor, and so on. We have 50 percent
+overlap with siblings at this level of comparison.
+716

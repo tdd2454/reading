@@ -1,0 +1,4 @@
+* Just as a warning of complexities to come, the hypothalamus consists of a bunch of different nuclei, each receiving a unique
+orchestration of limbic inputs and equivalently distinctive outputs to various midbrain/brain-stem regions. And while each
+hypothalamic nucleus has a different set of functions, they all fall under the general rubric of autonomic regulation.
+842

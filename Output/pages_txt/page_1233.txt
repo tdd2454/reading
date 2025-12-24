@@ -1,0 +1,4 @@
+* Just to make sure we have this sorted out, here’s a second example, namely the hypothalamic/pituitary/ovarian axis: the
+hypothalamus releases GnRH (gonadotropin-releasing hormone), which triggers the pituitary to release LH (luteinizing
+hormone), which triggers the ovaries to release estrogen.
+1232

@@ -1,0 +1,5 @@
+* The mechanisms underlying LTP elsewhere in the nervous system often differ from those of hippocampal LTP—some
+involve a third class of glutamate receptors; some may not even involve glutamate. The LTP old guard has generally coped
+with the indignity of LTP outside the hippocampus by viewing the hippocampal kind as classical, canonical, textbook, divine,
+etc., and the rest as chintzy knockoffs.
+944

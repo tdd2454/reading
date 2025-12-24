@@ -1,0 +1,39 @@
+emanating from the previous neuron in line. As a result, channels open
+and ions flow in and out of that one dendrite. But only a little bit. Not
+enough to make the entire inside of the neuron positively charged,
+simply a little less negatively charged just inside that dendrite (just to
+attach some numbers here that don’t matter in the slightest, the resting
+potential charge shifts from around –70 millivolts to around –60
+millivolts). Then the channels close. That little hiccup of becoming less
+negative* spreads farther up the shaft of that dendrite. The pumps have
+started working, pumping ions back to where they were in the first place.
+So at the end of that dendritic fibril, the charge went from –70 to –60
+mV. But a little bit up the shaft of that fibril, things then go from –70 to –
+65 mV. Farther up the shaft, –70 to –69. In other words, that excitatory
+signal dissipates. You’ve taken a nice smooth calm lake, in its resting
+state, and tossed a little pebble in. It causes a bit of a ripple right there,
+which spreads outward, getting smaller in its magnitude, until it
+dissipates not far from where the pebble hit. And miles away, at the
+lake’s axonal end, that ripple of excitation has had no effect whatsoever.
+In other words, if a single dendritic fibril is excited, that’s not enough
+to pass on the excitation down to the axonal end and on to the next
+neuron. How does a message ever get passed on? Back to that wonderful
+drawing of a neuron by Cajal here.
+That arborized array of bifurcating dendritic branches ends in lots of
+ends of fibrils (time to introduce the term commonly used: “ends in lots
+of dendritic spines”). And in order to get sufficient excitation to sweep
+from the dendritic end of the neuron to the axonal end, you have to have
+summation—the same spine must be stimulated repeatedly and/or, more
+commonly, a bunch of the spinal neurons must be stimulated at once.
+You can’t get a wave, rather than just a ripple, unless you throw in a lot
+of pebbles.
+At the base of the axon, where it emerges from the cell body, is a
+specialized part (called the axon “hillock”). If all those summated
+dendritic inputs produce enough of a ripple to move the resting potential
+around the hillock from –70 mV to around –40 mV, a threshold is
+passed. And once that happens, all hell breaks loose. A different class of
+channels opens in the membrane of the hillock, which allows a massive
+migration of ions, producing, finally, a positive charge (about 30 mV). In
+other words, an action potential. Which then opens up those same types
+of channels in the next smidgen of axonal membrane, regenerating the
+684

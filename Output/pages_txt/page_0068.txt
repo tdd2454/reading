@@ -1,0 +1,30 @@
+THE MESOLIMBIC/MESOCORTICAL
+DOPAMINE SYSTEM
+R
+eward, pleasure, and happiness are complex, and the motivated
+pursuit of them occurs in at least a rudimentary form in many
+species. The neurotransmitter dopamine is central to understanding this.
+Nuclei, Inputs, and Outputs
+Dopamine is synthesized in multiple brain regions. One such region
+helps initiate movement; damage there produces Parkinson’s disease.
+Another regulates the release of a pituitary hormone. But the
+dopaminergic system that concerns us arises from an ancient,
+evolutionarily conserved region near the brain stem called the ventral
+tegmental area (henceforth the “tegmentum”).
+A key target of these dopaminergic neurons is the last multisyllabic
+brain region to be introduced in this chapter, the nucleus accumbens
+(henceforth the “accumbens”). There’s debate as to whether the
+accumbens should count as part of the limbic system, but at the least it’s
+highly limbic-ish.
+Here’s our first pass at the organization of this circuitry:76
+a. The tegmentum sends projections to the accumbens and
+(other) limbic areas such as the amygdala and
+hippocampus. This is collectively called the
+“mesolimbic dopamine pathway.”
+b. The tegmentum also projects to the PFC (but,
+significantly, not other cortical areas). This is called the
+“mesocortical dopamine pathway.” I’ll be lumping the
+mesolimbic plus mesocortical pathways together as the
+“dopaminergic system,” ignoring their not always being
+activated simultaneously.*
+67

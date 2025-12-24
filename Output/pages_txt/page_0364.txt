@@ -1,0 +1,32 @@
+MULTILEVEL SELECTION
+S
+o we’ve got individual selection, kin selection, and reciprocal
+altruism. And then what happened in recent years? Group selection
+reappeared, sneaking in the back door.
+“Neo–group selection” crashed a long-standing debate as to the “unit
+of selection.”
+Genotype Versus Phenotype, and the Most
+Meaningful Level of Selection
+To appreciate this, let’s contrast genotype and phenotype. Genotype =
+someone’s genetic makeup. Phenotype = the traits observable to the
+outside world produced by that genotype.*
+Suppose there’s a gene that influences whether your eyebrows come
+in two separate halves or form a continuous unibrow. You’ve noted that
+unibrow prevalence is decreasing in a population. Which is the more
+important level for understanding why—the gene variant or the eyebrow
+phenotype? We know after chapter 8 that genotype and phenotype are
+not synonymous, because of gene/environment interactions. Maybe some
+prenatal environmental effect silences one version of the gene but not the
+other. Maybe a subset of the population belongs to a religion where you
+must cover your eyebrows when around the opposite sex, and thus
+eyebrow phenotype is untouched by sexual selection.
+You’re a grad student researching unibrow decline, and you must
+choose whether to study things at the genotypic or phenotypic level.
+Genotypic: sequencing eyebrow gene variants, trying to understand their
+regulation. Phenotypic: examining, say, eyebrow appearance and mate
+choice, or whether unibrows absorb more heat from sunlight, thereby
+damaging the frontal cortex, producing inappropriate social behavior and
+decreased reproductive success.
+This was the debate—is evolution best understood by focusing on
+genotype or phenotype?
+363

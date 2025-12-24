@@ -1,0 +1,5 @@
+* And, following that logic, if a trait associates with a particular version of an SNP in the promoter of a gene, you’ve just
+gotten a hint that the regulation of the gene (as opposed to the gene itself) may be involved in that trait. As an example, the
+gene for one type of serotonin receptor contains an SNP in the third base of the codon coding for the thirty-fourth amino acid
+in the protein, and one of the variants of that SNP is associated with responsiveness to a particular drug in schizophrenics.
+1027

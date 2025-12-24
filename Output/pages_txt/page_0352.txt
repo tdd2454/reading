@@ -1,0 +1,36 @@
+This is the Tit for Tat strategy. Note that it can never win. Best case is
+a draw, if playing against another person using Tit for Tat or someone
+using an “always cooperate” strategy. Otherwise it loses by a small
+margin. Every other strategy would always beat Tit for Tat by a small
+margin. However, other strategies playing against each other can produce
+catastrophic losses. And when everything is summed, Tit for Tat wins. It
+lost nearly every battle but won the war. Or rather, the peace. In other
+words, Tit for Tat drives other strategies to extinction.
+Tit for Tat has four things going for it: Its proclivity is to cooperate
+(i.e., that’s its starting state). But it isn’t a sucker and punishes defectors.
+It’s forgiving—if the defector resumes cooperating, so will Tit for Tat.
+And the strategy is simple.
+Axelrod’s tournament launched a zillion papers about Tit for Tat in
+PD and related games (more later). Then something crucial occurred—
+Axelrod and Hamilton hooked up. Biologists studying the evolution of
+behavior longed to be as quantitative as those studying the evolution of
+kidneys in desert rats. And here was this world of social scientists
+studying this very topic, even if they didn’t know it. PD provided a
+framework for thinking about the strategic evolution of cooperation and
+competition, as Axelrod and Hamilton explored in a 1981 paper (famous
+enough that it’s a buzz phrase—e.g., “How’d your lecture go today?”
+“Terrible, way behind schedule; I didn’t even get to Axelrod and
+Hamilton”).34
+As the evolutionary biologists started hanging with the political
+scientists, they inserted real-world possibilities into game scenarios. One
+addressed a flaw in Tit for Tat.
+Let’s introduce signal errors—a message is misunderstood, someone
+forgets to tell someone something, or there’s a hiccup of noise in the
+system. Like in the real world.
+There has been a signal error in round 5, with two individuals using a
+Tit for Tat strategy. This is what everyone means:
+Example 7:
+You: C C C C C
+Her: C C C C C
+But thanks to a signal error, this is what you think happened:
+351

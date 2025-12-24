@@ -1,0 +1,36 @@
+The Serotonin System
+What do genes related to serotonin have to do with our best and
+worst behaviors? Plenty.
+Chapter 2 presented a fairly clear picture of low levels of serotonin
+fostering impulsive antisocial behavior. There are lower-than-average
+levels of serotonin breakdown products in the bloodstreams of people
+with that profile, and of serotonin itself in the frontal cortex of such
+animals. Even more convincingly, drugs that decrease “serotonergic
+tone” (i.e., decreasing serotonin levels or sensitivity to serotonin)
+increase impulsive aggression; raising the tone does the opposite.
+This generates some simple predictions—all of the following should
+be associated with impulsive aggression, as they will produce low
+serotonin signaling:
+a. Low-activity variants of the gene for tryptophan
+hydroxylase (TH), which makes serotonin
+b. High-activity variants of the gene for monoamine
+oxidase-A (MAO-A), which degrades serotonin
+c. High-activity variants of the gene for the serotonin
+transporter (5HTT), which removes serotonin from the
+synapse
+d. Variants of genes for serotonin receptors that are less
+sensitive to serotonin
+An extensive literature shows that for each of those genes the results
+are inconsistent and generally go in the opposite direction from “low
+serotonin = aggression” dogma. Ugh.
+Studies of genes for TH and serotonin receptors are inconsistent
+messes.38 In contrast, the picture of 5HTT, the serotonin transporter
+gene, is consistently in the opposite direction from what’s expected. Two
+variants exist, with one producing less transporter protein, meaning less
+serotonin removed from the synapse.* And counter to expectations, this
+variant, producing more serotonin in the synapse, is associated with more
+impulsive aggression, not less. Thus, according to these findings, “high
+serotonin = aggression” (recognizing this as simplified shorthand).
+The clearest and most counterintuitive studies concern MAO-A. It
+burst on the scene in a hugely influential 1993 Science paper reporting a
+251

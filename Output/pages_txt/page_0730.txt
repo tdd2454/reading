@@ -1,0 +1,51 @@
+76. D. Carr and S. Sesack, “Projections from the Rat Prefrontal Cortex to the Ventral Tegmental
+Area: Target Specificity in the Synaptic Associations with Mesoaccumbens and Mesocortical
+Neurons,” J Nsci 20 (2000): 3864; M. Stefani and B. Moghaddam, “Rule Learning and Reward
+Contingency Are Associated with Dissociable Patterns of Dopamine Activation in the Rat
+Prefrontal Cortex, Nucleus Accumbens, and Dorsal Striatum,” J Nsci 26 (2006): 8810.
+77. T. Danjo et al., “Aversive Behavior Induced by Optogenetic Inactivation of Ventral Tegmental
+Area Dopamine Neurons Is Mediated by Dopamine D2 Receptors in the Nucleus Accumbens,”
+PNAS 111 (2014): 6455; N. Schwartz et al., “Decreased Motivation During Chronic Pain
+Requires Long-Term Depression in the Nucleus Accumbens,” Nat 345 (2014): 535.
+78. J. Cloutier et al., “Are Attractive People Rewarding? Sex Differences in the Neural Substrates
+of Facial Attractiveness,” J Cog Nsci 20 (2008): 941; K. Demos et al., “Dietary Restraint
+Violations Influence Reward Responses in Nucleus Accumbens and Amygdala,” J Cog Nsci
+23 (2011): 1952.
+79. Footnote: R. Deaner et al., “Monkeys Pay per View: Adaptive Valuation of Social Images by
+Rhesus Macaques,” Curr Biol 15 (2005): 543.
+80. V. Salimpoor et al., “Interactions Between the Nucleus Accumbens and Auditory Cortices
+Predicts Music Reward Value,” Sci 340 (2013): 216; G. Berns and S. Moore, “A Neural
+Predictor of Cultural Popularity,” J Consumer Psych 22 (2012): 154; S. Erk et al., “Cultural
+Objects Modulate Reward Circuitry,” Neuroreport 13 (2002): 2499.
+81. A. Sanfey et al., “The Neural Basis of Economic Decision-Making in the Ultimatum Game,”
+Sci 300 (2003): 1755. Also see J. Moll et al., “Human Front-Mesolimbic Networks Guide
+Decisions About Charitable Donation,” PNAS 103 (2006): 15623; W. Harbaugh et al., “Neural
+Responses to Taxation and Voluntary Giving Reveal Motives for Charitable Donations,” Sci
+316 (2007): 1622.
+82. D. De Quervain et al., “The Neural Basis of Altruistic Punishment,” Sci 305 (2004): 1254; B.
+Knutson, “Sweet Revenge?” Sci 305 (2004): 1246.
+83. M. Delgado et al., “Understanding Overbidding: Using the Neural Circuitry of Reward to
+Design Economic Auctions,” Sci 321 (2008): 1849; E. Maskin, “Can Neural Data Improve
+Economics?” Sci 321 (2008): 1788.
+84. H. Takahasi et al., “When Your Gain Is My Pain and Your Pain Is My Gain: Neural Correlates
+of Envy and Schadenfreude,” Sci 323 (2009): 890; K. Fliessbach et al., “Social Comparison
+Affects Reward-Related Brain Activity in the Human Ventral Striatum,” Sci 318 (2007): 1305.
+85. W. Schultz, “Dopamine Signals for Reward Value and Risk: Basic and Recent Data,” Behav
+and Brain Functions 6 (2010): 24.
+86. J. Cooper et al., “Available Alternative Incentives Modulate Anticipatory Nucleus
+Accumbens Activation,” SCAN 4 (2009): 409; D. Levy and P. Glimcher, “Comparing Apples
+and Oranges: Using Reward-Specific and Reward-General Subjective Value Representation in
+the Brain,” J Nsci 31 (2011): 14693.
+87. P. Tobler et al., “Adaptive Coding of Reward Value by Dopamine Neurons,” Sci 307 (2005):
+1642.
+88. W. Schultz, “Dopamine Signals for Reward Value and Risk: Basic and Recent Data,” Behav
+and Brain Functions 6 (2010): 24; J. Cohen et al., “Neuron-Type-Specific Signals for Reward
+and Punishment in the Central Tegmental Area,” Nat 482 (2012): 85; J. Hollerman and W.
+Schultz, “Dopamine Neurons Report an Error in the Temporal Prediction of Reward During
+Learning,” Nat Nsci 1 (1998): 304; A. Brooks et al., “From Bad to Worse: Striatal Coding of
+the Relative Value of Painful Decisions,” Front Nsci 4 (2010): 1.
+89. B. Knutson et al., “Neural Predictors of Purchases,” Neuron 53 (2007): 147.
+90. P. Sterling, “Principles of Allostasis: Optimal Design, Predictive Regulation, Pathophysiology
+and Rational Therapeutics,” in Allostasis, Homeostasis, and the Costs of Adaptation, ed. J.
+Schulkin (Cambridge, MA: MIT Press, 2004).
+729

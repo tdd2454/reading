@@ -1,0 +1,4 @@
+* In the Prisoner’s Dilemma each of the two players must decide whether to cooperate. If they both cooperate, they each get,
+say, two units of reward. If they both backstab, they each get one unit. If one cooperates and the other backstabs, the cheater
+gets three units and the stooge gets none.
+916

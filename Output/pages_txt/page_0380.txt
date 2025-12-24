@@ -1,0 +1,39 @@
+They’re missing the important stuff. A key rebuttal is to remind
+everyone that paleontologists study things that are fossilized. Bones,
+shells, bugs in amber. Not organs—brains, pituitaries, ovaries. Not cells
+—neurons, endocrine cells, eggs, sperm. Not molecules—
+neurotransmitters, hormones, enzymes. In other words, none of the
+interesting stuff. Those punctuated equilibrium nudniks spend their
+careers measuring zillions of snail shells and, based on that, say we’re
+wrong about the evolution of behavior?
+This opens the way for some compromise. Maybe the hominin pelvis
+did indeed evolve in a punctuated manner, with long periods of stasis and
+bursts of rapid change. And maybe the pituitary’s evolution was
+punctuated as well, but with punctuations at different times. And maybe
+steroid hormone receptors and the organization of frontocortical neurons
+and the inventions of oxytocin and vasopressin all evolved that way also,
+but each undergoing punctuated change at a different time. Overlap and
+average these punctuated patterns, and it will be gradualist. This only
+gets you so far, though, since it assumes the occurrence of numerous
+evolutionary bottlenecks.
+Where’s the molecular biology? One of the strongest gradualist
+retorts was a molecular one. Micromutation, consisting of point,
+insertion, and deletion mutations that subtly change the function of
+preexisting proteins, is all about gradualism. But what mechanisms of
+molecular evolution explain rapid, dramatic change and long periods of
+stasis?
+As we saw in chapter 8, recent decades have provided many possible
+molecular mechanisms for rapid change. This is the world of
+macromutations: (a) traditional point, insertion, and deletion mutations in
+genes whose proteins have amplifying network effects (transcription
+factors, splicing enzymes, transposes) in an exon expressed in multiple
+proteins in genes for enzymes involved in epigenetics; (b) traditional
+mutations in promoters, transforming the when/where/how-much of gene
+expression (remember that promoter change that makes polygamous
+voles monogamous); (c) untraditional mutations such as the duplication
+or deletion of entire genes. All means for big, rapid changes.
+But what about a molecular mechanism for the stasis? Plunk a
+random mutation into a transcription-factor gene, thereby creating a new
+cluster of genes never before expressed simultaneously. What are the
+odds that it won’t be a disaster? Randomly mutate a gene for an enzyme
+379

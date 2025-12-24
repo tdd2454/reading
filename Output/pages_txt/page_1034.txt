@@ -1,0 +1,6 @@
+* These are tough studies to pull off, as neuroimaging is a bit of an art in addition to a science, and being able to
+quantitatively compare data derived from two scanners and scanning protocols on opposite sides of the globe is challenging.
+The alternative—having subjects from both cultures studied in the same scanner—is challenging as well; those aren’t going
+to be representative subjects, since half of them are probably international students—connected, well off, and adventurous
+enough to be in an American college town, volunteering for a Psych 101 study.
+1033

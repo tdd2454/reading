@@ -1,0 +1,39 @@
+late again; the train was delayed” being assessed as more plausible and
+forgivable than “Sorry I’m late again; a meteorite hit my driveway
+again”).
+Another solution to Tit for Tat’s signal-error vulnerability is to use a
+shifting strategy. At the beginning, in an ocean of heterogeneous
+strategies, many heavily biased toward defection, start with Tit for Tat.
+Once they’ve become extinct, switch to Forgiving Tit for Tat, which
+outcompetes Tit for Tat when signal errors occur. What is this transition
+from hard-assed, punitive Tit for Tat to incorporating forgiveness?
+Establishing trust.
+Other elaborations simulate living systems. The computer scientist
+John Holland of the University of Michigan introduced “genetic
+algorithms”—strategies that mutate over time.
+Another real-world elaboration was to factor in the “cost” of certain
+strategies—for example, with Tit for Tat, the costs of monitoring for and
+then punishing cheating—costly alarm systems, police salaries, and jail
+construction. These are superfluous in a world of no signal errors and
+nothing but Tit for Tat–ers, and Tit for Tat can be replaced by the cheaper
+Always Cooperate.
+Thus, when there are signal errors, differing costs to different
+strategies, and the existence of mutations, a cycle emerges: a
+heterogeneous population of strategies, including exploitative,
+noncooperative ones, are replaced by Tit for Tat, then replaced by
+Forgiving Tit for Tat, then by Always Cooperate—until a mutation
+reintroduces an exploitative strategy that spreads like wildfire, a wolf
+among Always Cooperate sheep, starting the cycle all over again. . . .*36
+More and more modifications made the models closer to the real world.
+Soon the computerized game strategies were having sex with each other,
+which must have been the most exciting thing ever for the
+mathematicians involved.
+The evolutionary biologists were delighted to generate increasingly
+sophisticated models with the theoretical economists and theoretical
+diplomats and theoretical war strategists. The real question was whether
+animal behavior actually fits any of these models.
+One bizarre animal system suggests Tit for Tat enforcement of
+cooperation involving the black hamlet fish, which form stable pair-
+bonds.37 Nothing strange there. The fish can change sex (something that
+occurs in some fish species). As per usual, reproduction is more
+353

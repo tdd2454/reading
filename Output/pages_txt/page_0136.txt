@@ -1,0 +1,36 @@
+NONLINEAR EXCITATION
+W
+e start small. How can events from months ago produce a
+synapse with altered excitability today? How do synapses
+“remember”?
+When neuroscientists first approached the mystery of memory at the
+start of the twentieth century, they asked that question on a more macro
+level—how does a brain remember? Obviously, a memory was stored in
+a single neuron, and a new memory required a new neuron.
+The discovery that adult brains don’t make new neurons trashed that
+idea. Better microscopes revealed neuronal arborization, the breathtaking
+complexity of branches of dendrites and axon terminals. Maybe a new
+memory requires a neuron to grow a new axonal or dendritic branch.
+Knowledge emerged about synapses, neurotransmitter-ology was
+born, and this idea was modified—a new memory requires the formation
+of a new synapse, a new connection between an axon terminal and a
+dendritic spine.
+These speculations were tossed on the ash heap of history in 1949,
+because of the work of the Canadian neurobiologist Donald Hebb, a man
+so visionary that even now, nearly seventy years later, neuroscientists
+still own bobblehead dolls of him. In his seminal book, The Organization
+of Behaviour, Hebb proposed what became the dominant paradigm.
+Forming memories doesn’t require new synapses (let alone new branches
+or neurons); it requires the strengthening of preexisting synapses.1
+What does “strengthening” mean? In circuitry terms, if neuron A
+synapses onto neuron B, it means that an action potential in neuron A
+more readily triggers one in neuron B. They are more tightly coupled;
+they “remember.” Translated into cellular terms, “strengthening” means
+that the wave of excitation in a dendritic spine spreads farther, getting
+closer to the distant axon hillock.
+Extensive research shows that experience that causes repeated firing
+across a synapse “strengthens” it, with a key role played by the
+neurotransmitter glutamate.
+Recall from chapter 2 how an excitatory neurotransmitter binds to its
+receptor in the postsynaptic dendritic spine, causing a sodium channel to
+135

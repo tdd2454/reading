@@ -1,0 +1,5 @@
+* Note: This does not mean that every neuron in the frontal cortex had the regulation of a thousand-odd genes changed.
+Instead, there are glial cells in addition to neurons, and the neurons are of a variety of types. So in reality the average number
+of changes within any given cell was probably far less than a thousand. Note about note: which doesn’t make any of this less
+interesting, just harder to study.
+997

@@ -1,0 +1,4 @@
+* Here’s a cool example pointed out to me by a colleague, Bud Ruby. All those twin studies generate heritability scores,
+indicating the strength of genes in explaining individual variation. But those studies, by definition, have eliminated an
+important nongenetic source of variation—birth order.
+1019

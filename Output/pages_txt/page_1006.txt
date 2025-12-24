@@ -1,0 +1,4 @@
+* “Epigenetic” technically refers to altering the regulation of genes, rather than the sequence of genes. Therefore a
+transcription factor activating some gene for ten minutes counts as epigenetic as well. When neuroscientists talk of the
+“epigenetics revolution,” however, they’re almost always referring to the long-lasting mechanisms discussed here.
+1005

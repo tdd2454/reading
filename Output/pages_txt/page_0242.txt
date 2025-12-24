@@ -1,0 +1,36 @@
+Everyone agrees that confounds from prenatal
+environment, epigenetics, selective placement, range
+restriction, and assumptions about equal environment
+are unavoidable.
+Most of these confounds inflate the perceived
+importance of genes.
+Efforts have been made to control for these confounds
+and generally have shown that they are of less
+magnitude than charged by many critics.
+Crucially, these studies have mostly been about
+psychiatric disorders, which, while plenty interesting,
+aren’t terribly relevant to the concerns of this book. In
+other words, no one has studied whether these
+confounds matter when considering genetic influences
+on, say, people’s tendency to endorse their culture’s
+moral rules yet rationalize why those rules don’t apply
+to them today, because they’re stressed and it’s their
+birthday. Lots more work to be done.
+The Fragile Nature of Heritability Estimates
+Now starts a bruising, difficult, immensely important subject. I
+review its logic every time I teach it, because it’s so unintuitive, and I’m
+still always just words away from getting it wrong when I open my
+mouth in class.
+Behavior genetics studies usually produce a number called a
+heritability score.28 For example, studies have reported heritability
+scores in the 40 to 60 percent range for traits related to prosocial
+behavior, resilience after psychosocial stress, social responsiveness,
+political attitudes, aggression, and leadership potential.
+What’s a heritability score? “What does a gene do?” is at least two
+questions. How does a gene influence average levels of a trait? How
+does a gene influence variation among people in levels of that trait?
+These are crucially different. For example, how much do genes have
+to do with people’s scores averaging 100 on this thing called an IQ test?
+Then how much do genes have to do with one person scoring higher than
+another?
+241

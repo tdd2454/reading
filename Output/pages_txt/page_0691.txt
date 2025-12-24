@@ -1,0 +1,22 @@
+These housekeeping steps are hugely important. Suppose you want to
+increase the amount of neurotransmitter signaling across a synapse. Let’s
+translate that into the excitation terms of the previous section—you want
+to increase excitability across the synapse, such that an action potential
+in the presynaptic neuron has more of an oomph in the postsynaptic
+neuron, which is to say it has an increased likelihood of causing an
+action potential in that second neuron. You could increase the amount of
+neurotransmitter released—the presynaptic neuron yells louder. Or you
+could increase the amount of receptor on the dendritic spine—the
+postsynaptic neuron is listening more acutely.
+But as another possibility, you could decrease the activity of the
+reuptake pump. As a result, less of the neurotransmitter is removed from
+the synapse. Thus it sticks around longer and binds to the receptors
+repeatedly, amplifying the signal. Or, as the conceptual equivalent, you
+could decrease the activity of the degradative enzyme; less
+neurotransmitter is broken down, so more sticks around longer in the
+synapse, having an enhanced effect. As we saw, some of the most
+interesting findings that help explain individual differences in the
+behaviors that concern us in this book relate to amounts of
+neurotransmitter made and released, and the amounts and functioning of
+the receptors, reuptake pumps, and degradative enzymes.
+690

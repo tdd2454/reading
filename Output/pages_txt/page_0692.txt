@@ -1,0 +1,38 @@
+Types of Neurotransmitters
+So what is this mythic neurotransmitter molecule, released by action
+potentials from the axon terminals of all of the hundred billion neurons?
+Here’s where things get complicated, because there is more than one type
+of neurotransmitter.
+Why more than one? The same thing happens in every synapse,
+which is that the neurotransmitter binds to its key-in-a-lock receptor and
+triggers the opening of various channels that allow the ions to flow and
+makes the inside of the spine a bit less negatively charged.
+One reason is that different neurotransmitters depolarize to different
+extents—in other words, some have more excitatory effects than others
+—and for different durations. This allows for a lot more complexity in
+information being passed from one neuron to the next.
+And now to double the size of our palette, there are some
+neurotransmitters that don’t depolarize, don’t increase the likelihood of
+the next neuron in line having an action potential. They do the opposite
+—they “hyperpolarize” the dendritic spine, opening different types of
+channels that make the resting potential even more negative (e.g.,
+shifting from –70 mV to –80 mV). In other words, there are such things
+as inhibitory neurotransmitters. You can see how that has just made
+things more complicated—a neuron with its ten thousand dendritic
+spines is getting excitatory inputs of differing magnitudes from various
+neurons, getting inhibitory ones from other neurons, and integrating all
+of this at the axon hillock.
+Thus there are lots of different classes of neurotransmitters, each
+binding to a unique receptor site that is complementary to its shape. Are
+there a bunch of different types of neurotransmitters in each axon
+terminal, so that an action potential triggers the release of a whole
+orchestration of signaling? Here is where we invoke Dale’s Principle,
+named for Henry Dale, one of the grand pooh-bahs of the field, who in
+the 1930s proposed a rule whose veracity forms the very core of each
+neuroscientist’s sense of well-being: an action potential releases the same
+type of neurotransmitter from all of the axon terminals of a neuron.
+Therefore there will be a distinctive neurochemical profile to a particular
+neuron—“Oh, that neuron is a neurotransmitter A–type neuron. And
+what that also means is that the neurons that it talks to have
+neurotransmitter A receptors on their dendritic spines.”*
+691

@@ -1,0 +1,5 @@
+* An example of the sort of complexity we’re up against here: Both fear conditioning and fear extinction involve activation
+of inhibitory neurons. Hmm, that commonality seems weird, given opposite outcomes. It turns out that extinction involves
+activation of neurons that inhibit excitatory neurons, while fear conditioning involves activation of inhibitory neurons that
+inhibit other inhibitory neurons that project onto excitatory neurons. A double negative, equaling a positive.
+859

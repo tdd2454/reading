@@ -1,0 +1,30 @@
+Example 8:
+You: C C C C C
+Her: C C C C D
+You think, “What a creep, defecting like that.” You defect in the next
+round. Thus, what you think has happened:
+Example 9:
+You: C C C C C D
+Her: C C C C D C
+What she thinks is happening, being unaware of the signal error:
+Example 10:
+You: C C C C C D
+Her: C C C C C C
+She thinks, “What a creep, defecting like that.” Thus she defects the
+next round. “Oh, so you want more? I’ll give you more,” you think, and
+defect. “Oh, so you want more? I’ll give you more,” she thinks:
+Example 11:
+You: C C C C C D C D C D C D C D C D. . . .
+Her: C C C C D C D C D C D C D C D C. . . .
+When signal errors are possible, a pair of Tit for Tat players are
+vulnerable to being locked forever in this seesawing of defection.*
+The discovery of this vulnerability prompted evolutionary biologists
+Martin Nowak of Harvard, Karl Sigmund of the University of Vienna,
+and Robert Boyd of UCLA to provide two solutions.35 “Contrite Tit for
+Tat” retaliates only if the other side has defected twice in a row.
+“Forgiving Tit for Tat” automatically forgives one third of defections.
+Both avoid doomsday signal-error scenarios but are vulnerable to
+exploitation.*
+A solution to this vulnerability is to shift the frequency of
+forgiveness in accordance with the likelihood of signal error (“Sorry I’m
+352

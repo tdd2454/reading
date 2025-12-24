@@ -1,0 +1,4 @@
+* Thanks to the wisdom of Dale, we know that the same neurotransmitter(s) is coming out of every axon terminal of neuron
+C. In other words, the same neurotransmitter can be excitatory at some synapses and inhibitory at others. This is determined
+by what type of ion channel the receptor is coupled to in the dendritic spine.
+1228

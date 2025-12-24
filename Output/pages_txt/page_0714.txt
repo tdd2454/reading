@@ -1,0 +1,39 @@
+The entire stretch of nucleotides that codes for a single type of
+protein is called a gene. The entire collection of DNA is called the
+genome, coding for all of the tens of thousands of genes in an organism;
+“sequencing” the genome means determining the unique sequence of the
+billions of nucleotides that make up that organism’s genome. That stretch
+of DNA is so long (containing roughly twenty thousand genes in
+humans) that it has to be broken into separate volumes, called
+chromosomes.
+This produces a spatial problem. The DNA library is found in the
+center of the cell, in the nucleus. Proteins, however, occur all over the
+cell, are constructed all over it (just think of proteins in the axon
+terminals of a spinal neuron in a blue whale, terminals that are light-
+years away from that neuron’s nucleus). How do you get the DNA
+information out to where the protein is made? There is an intermediary
+that completes the picture. The unique nucleotide sequence in DNA that
+codes for a particular gene is copied into a string of similar nucleotide
+letters in a related compound called RNA. Any given chromosome
+contains a staggeringly long stretch of DNA, coding for one gene after
+another; in contrast, this stretch of RNA is only as long as the particular
+gene. In other words, a more manageable length. That RNA is then
+shipped to wherever it is supposed to be in the cell, where it then directs
+which amino acids are strung together in which sequence to form a
+protein (and there are amino acids floating around in a cell, ready to be
+grabbed for the protein-construction project). Think of RNA as a
+photocopy of a single page out of this vast twenty-thousand-page-long
+DNA encyclopedia. (And multiple copies of the cognate protein can be
+made from the instructions in a photocopy page of RNA. This sure helps
+in circumstances where copies of the protein must wind up in each of the
+thousands of a single neuron’s axon terminals.)
+This produces what is termed the “central dogma” of life, a concept
+first framed in the early 1960s by Francis Crick, half of the renowned
+Watson and Crick, who discovered the “double helix” structure of DNA
+(with more than a little purloined help from Rosalind Franklin, but that’s
+another story). Crick’s central dogma holds that the nucleotide sequence
+of DNA that composes a gene determines how a unique stretch of RNA
+is put together . . . which determines how a unique stretch of amino acids
+are put together . . . which determines the shape(s) of the resulting
+protein . . . which determines that protein’s function. DNA determines
+713

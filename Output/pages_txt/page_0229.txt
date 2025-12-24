@@ -1,0 +1,39 @@
+Thus transcription factors regulate genes. What regulates
+transcription factors? The answer devastates the concept of genetic
+determinism: the environment.
+To start unexcitingly, “environment” can mean intracellular
+environment. Suppose a hardworking neuron is low on energy. This state
+activates a particular transcription factor, which binds to a specific
+promoter, which activates the next gene in line (the “downstream” gene).
+This gene codes for a glucose transporter; more glucose transporter
+proteins are made and inserted into the cell membrane, improving the
+neuron’s ability to access circulating glucose.
+Next consider “environment,” including the neuron next door, which
+releases serotonin onto the neuron in question. Suppose less serotonin
+has been released lately. Sentinel transcription factors in dendritic spines
+sense this, travel to the DNA, and bind to the promoter upstream of the
+serotonin receptor gene. More receptor is made and placed in the
+dendritic spines, and they become more sensitive to the faint serotonin
+signal.
+Sometimes “environment” can be far-flung within an organism. A
+male secretes testosterone, which travels through the bloodstream and
+binds to androgen receptors in muscle cells. This activates a
+transcription-factor cascade that results in more intracellular scaffolding
+proteins, enlarging the cell (i.e., muscle mass increases).
+Finally, and most important, there is “environment,” meaning the
+outside world. A female smells her newborn, meaning that odorant
+molecules that floated off the baby bind to receptors in her nose. The
+receptors activate and (many steps later in the hypothalamus) a
+transcription factor activates, leading to the production of more oxytocin.
+Once secreted, the oxytocin causes milk letdown. Genes are not the
+deterministic holy grail if they can be regulated by the smell of a baby’s
+tushy. Genes are regulated by all the incarnations of environment.
+In other words, genes don’t make sense outside the context of
+environment. Promoters and transcription factor introduce if/then
+clauses: “If you smell your baby, then activate the oxytocin gene.”
+Now the plot thickens.
+There are multiple types of transcription factors in a cell, each
+binding to a particular DNA sequence constituting a particular promoter.
+Consider a genome containing one gene. In that imaginary organism
+there is only a single profile of transcription (i.e., the gene is
+228

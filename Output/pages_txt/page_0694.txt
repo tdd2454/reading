@@ -1,0 +1,36 @@
+Cheap, cheap, cheap. Which makes sense. Nothing becomes obsolete
+faster than a neurotransmitter after it has done its postsynaptic thing.
+Yesterday’s newspaper is useful today only for house-training puppies.
+Neuropharmacology
+As these neurotransmitterology insights emerged, they allowed
+scientists to begin to understand how various “neuroactive” and
+“psychoactive” drugs and medicines work.
+Broadly, such drugs fall into two categories: those that increase
+signaling across a particular type of synapse, and those that decrease it.
+We already saw some of the strategies for increasing signaling: (a)
+Stimulate more synthesis of the neurotransmitter (for example, by
+administering the precursor or using a drug that increases the activity of
+the enzymes that synthesize the neurotransmitter). As an example,
+Parkinson’s disease involves a loss of dopamine in one brain region, and
+a staple of treatment is to boost dopamine levels by administering the
+drug L-DOPA, which is the immediate precursor of dopamine. (b)
+Administer a synthetic version of the neurotransmitter, or a drug that is
+structurally close enough to the real thing to fool the receptors.
+Psilocybin, for example, is structurally similar to serotonin and activates
+a subtype of its receptors. (c) Stimulate the postsynaptic neuron to make
+more receptors. Fine in theory, but not easily done. (d) Inhibit
+degradative enzymes so that more of the neurotransmitter sticks around
+in the synapse. (e) Inhibit the reuptake of the neurotransmitter,
+prolonging its effects in the synapse. The modern antidepressant of
+choice, Prozac, does exactly that in serotonin synapses. Thus it is often
+referred to as an “SSRI”—a selective serotonin reuptake inhibitor.
+Meanwhile, a pharmacopeia of drugs are available to decrease
+signaling across synapses, and you can see what their underlying
+mechanisms are going to include—blocking the synthesis of a
+neurotransmitter, blocking its release, blocking its access to its receptor,
+and so on. Fun example: Acetylcholine stimulates your diaphragm to
+contract. Curare, the poison used in darts by Amazonian tribes, blocks
+acetylcholine receptors. You stop breathing.
+A final, very relevant point—just as the threshold of the axon hillock
+can change over time in response to experience, nearly every facet of the
+693

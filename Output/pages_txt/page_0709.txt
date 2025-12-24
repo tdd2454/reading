@@ -1,0 +1,39 @@
+certain genes on or off, alter the metabolisms of cells, cause them to
+grow or atrophy, to divide or to shrivel up and die. Testosterone, for
+example, increases muscle mass, and progesterone causes the
+proliferation of cells in the uterus, causing it to thicken during the luteal
+phase. Conversely, thyroid hormone kills cells in a tadpole’s tail as the
+animal is metamorphosing into a frog, and a class of stress hormones can
+kill cells in the immune system (helping to explain how stress makes us
+vulnerable to getting a cold). Hormones are extremely versatile.
+Most hormones are part of a “neuroendocrine axis.” Recall from
+chapter 2 how all roads in the limbic system lead to the hypothalamus,
+with its pivotal role in regulating the autonomic nervous system and
+hormonal systems. Here’s where that second part comes in. Neurons in
+the hypothalamus secrete a particular hormone that travels in a tiny, local
+circulatory system connecting to the pituitary, just below the base of the
+brain. There that hormone stimulates the secretion of a particular
+pituitary hormone, which enters the general circulation and stimulates
+the secretion of a third hormone from some peripheral gland. Here’s an
+example involving my three favorite hormones: during stress,
+hypothalamic neurons secrete CRH (corticotropin-releasing hormone),
+which stimulates pituitary cells to secrete ACTH (adrenocorticotropic
+hormone). Once in the general circulation, ACTH gets to the adrenal
+glands, where it stimulates secretion of steroid stress hormones called
+glucocorticoids (with the human version being cortisol, aka
+hydrocortisone). Other hormones (e.g., estrogen, progesterone,
+testosterone, and thyroid hormone) are released from peripheral glands
+as the final step of their own “hypothalamic/pituitary/peripheral gland
+axis.”* As a wonderful complication, the secretion of each particular
+pituitary hormone is often not under the control of only a single
+hypothalamic releasing hormone. Instead there are multiple types of
+hormones serving that function, and other hypothalamic hormones that
+inhibit that particular pituitary hormone’s release. For example, an array
+of hypothalamic hormones in addition to CRH regulates the release of
+ACTH, where different types of stressors produce different combinations
+of those hypothalamic hormones.
+Not all hormones are regulated in this brain/pituitary/peripheral gland
+manner. In some cases there’s a brain/pituitary two-step, where the
+pituitary hormone exerts effects throughout the body; growth hormone
+generally fits this pattern. In other systems the brain sends projections
+708
