@@ -1,0 +1,9 @@
+{
+  "chapter": "One: THE BEHAVIOR",
+  "window_idx": 1,
+  "window_len": 991,
+  "window_head": "Which is an unwelcome prospect.\nHere are some words of central importance to this book: aggression,\nviolence, compassion, empathy, sympathy, competition, cooperation,\naltruism, envy, schadenfreude, spite, forgiveness, reconciliation, revenge,\nreciprocity, and (why not?) love. Flinging us into definitional quagmires.\nWhy the difficulty? As emphasized in the introduction, one reason is\nthat so many of these terms are the subject of ideological battles over the\nappropriation and distortions of their meanings.*1 Words pack power and\nthese definitions are laden with values, often wildly idiosyncrat",
+  "window_tail": " so many of these terms are the subject of ideological battles over the\nappropriation and distortions of their meanings.*1 Words pack power and\nthese definitions are laden with values, often wildly idiosyncratic ones.\nHere’s an example, namely the ways I think about the word\n“competition”: (a) “competition”—your lab team races the Cambridge\ngroup to a discovery (exhilarating but embarrassing to admit to); (b)\n“competition”—playing pickup soccer (fine, as long as the best player\ndeity is more worth killing for? (try to avoid).\nBut the biggest reason for the definitional challenge was emphasized",
+  "llm_raw": "{\"strings\": [\"Which is an unwelcome prospect.\", \"Words pack power and these definitions are laden with values, often wildly idiosyncratic ones.\", \"Here’s an example, namely the ways I think about the word 'competition': (a) 'competition'—your lab team races the Cambridge group to a discovery (exhilarating but embarrassing to admit to); (b) 'competition'—playing pickup soccer (fine, as long as the best player deity is more worth killing for?\", \"But the biggest reason for the definitional challenge was emphasized\"]}",
+  "parse_error": "JSON ok nhưng không phải list[str]. type=<class 'dict'>"
+}

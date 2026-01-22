@@ -1,0 +1,9 @@
+{
+  "chapter": "Two: ONE SECOND BEFORE",
+  "window_idx": 66,
+  "window_len": 1056,
+  "window_head": "A leader tells bold-faced lies, starting a war. A financier with Ponzi in his blood defrauds investors. A peasant woman lies to a uniformed thug, telling him she does not know the whereabouts of the refugees she knows are hiding in her attic. As with much about the\n\nWhere does the frontal cortex get the metaphorical motivation to do the harder thing? For this we now look at our final branch, the dopaminergic “reward” system in the brain. DOPAMINE SYSTEM eward, pleasure, and happiness are complex, and the motivated pursuit of them occurs in at least a rudimentary form in many species. The neuro",
+  "window_tail": "M eward, pleasure, and happiness are complex, and the motivated pursuit of them occurs in at least a rudimentary form in many species. The neurotransmitter dopamine is central to understanding this. Nuclei, Inputs, and Outputs Dopamine is synthesized in multiple brain regions. One such region helps initiate movement; damage there produces Parkinson’s disease. Another regulates the release of a pituitary hormone. But the dopaminergic system that concerns us arises from an ancient, evolutionarily conserved region near the brain stem called the ventral tegmental area (henceforth the “tegmentum”).",
+  "llm_raw": "{}",
+  "parse_error": "JSON parsed but cannot coerce to list[str]. top_type=<class 'dict'> keys=[]"
+}

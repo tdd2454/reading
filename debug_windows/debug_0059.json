@@ -1,0 +1,9 @@
+{
+  "chapter": "Two: ONE SECOND BEFORE",
+  "window_idx": 59,
+  "window_len": 982,
+  "window_head": "This activates her amygdala, periaqueductal gray friends; my dog loves me.” And the amygdala et al. quiet down. And what if you do the same to someone whose frontal cortex is not fully functional? The amygdala is increasingly activated; the person feels increasingly distressed. What neurological disease is involved? None. This is a typical teenager. Finally, the PFC mediates fear extinction. Yesterday the rat learned, “That tone is followed by a shock,” so the sound of the tone began to trigger freezing. Today there are no shocks, and the rat has acquired another truth that takes precedence—“b",
+  "window_tail": " extinction. Yesterday the rat learned, “That tone is followed by a shock,” so the sound of the tone began to trigger freezing. Today there are no shocks, and the rat has acquired another truth that takes precedence—“but not today.” The first truth is still there; as proof, start coupling tone with shock again, and freezing to tone is “reinstated” faster than the association was initially learned. Where is “but not today” consolidated? In the PFC, after receiving information from the hippocampus.67 The medial PFC activates inhibitory circuits in the BLA, and the rat stops freezing to the tone.",
+  "llm_raw": "{\"arrays\": [[\"This activates her amygdala, periaqueductal gray friends; my dog loves me.\", \"What neurological disease is involved? None.\", \"This is a typical teenager.\", \"The PFC mediates fear extinction.\", \"Yesterday the rat learned,\", \"Today there are no shocks,\", \"Where is 'but not today' consolidated?\", \"'But not today' is consolidated in the PFC after receiving information from the hippocampus.\"]]}",
+  "parse_error": "JSON parsed but cannot coerce to list[str]. top_type=<class 'dict'> keys=['arrays']"
+}

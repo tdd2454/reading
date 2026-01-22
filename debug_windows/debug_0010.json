@@ -1,0 +1,9 @@
+{
+  "chapter": "One: THE BEHAVIOR",
+  "window_idx": 10,
+  "window_len": 224,
+  "window_head": "group them in a way that reflects this. I won’t frame the behaviors to\n24\nand frothy. Instead, as our convenient shorthand for concepts that truly\ndefy brevity, this book is about the biology of our best and worst\nbehaviors.",
+  "window_tail": "group them in a way that reflects this. I won’t frame the behaviors to\n24\nand frothy. Instead, as our convenient shorthand for concepts that truly\ndefy brevity, this book is about the biology of our best and worst\nbehaviors.",
+  "llm_raw": "{\"strings\": [\"group them in a way that reflects this.\", \"I won’t frame the behaviors to\", \"24\", \"and frothy.\", \"Instead, as our convenient shorthand for concepts that truly defy brevity,\", \"this book is about the biology of our best and worst behaviors.\"]}",
+  "parse_error": "JSON ok nhưng không phải list[str]. type=<class 'dict'>"
+}
